@@ -1,0 +1,68 @@
+{
+  "hardware": {
+    "CPU": "Apple M4",
+    "RAM_bytes": 17179869184,
+    "logical_cores": 10,
+    "measurement_source": "sysctl read-only",
+    "python": "3.9.18",
+    "system": "macOS 15.3.1 arm64"
+  },
+  "method": "3 sequential fresh single-process runs per dataset; includes normalized cohort read, block/candidate/query setup, exact bounds, cross-checks and all certificate construction; excludes raw acquisition, raw parsing and independent verification",
+  "profile": "state counts are observational formulas for the actual count/last table; repeated block work counted each time; RSS is whole process, not DP table alone",
+  "datasets": {
+    "M1": {
+      "all_wall_seconds": [
+        21.435177375,
+        21.830019375000003,
+        21.761376958
+      ],
+      "peak_RSS_MiB": [
+        87.796875,
+        91.015625,
+        91.21875
+      ],
+      "warm_wall_range": [
+        21.761376958,
+        21.830019375000003
+      ],
+      "state_profile": {
+        "solve_calls": 46655,
+        "solved_blocks": 1878222,
+        "max_count_vectors": 960,
+        "max_DP_states": 2504,
+        "total_DP_states": 2185146,
+        "max_categories": 3
+      },
+      "cases": 999,
+      "events": 43322,
+      "queries": 45
+    },
+    "M3": {
+      "all_wall_seconds": [
+        35.614736459,
+        36.0708665,
+        35.913680083
+      ],
+      "peak_RSS_MiB": [
+        118.6875,
+        115.0625,
+        118.203125
+      ],
+      "warm_wall_range": [
+        35.913680083,
+        36.0708665
+      ],
+      "state_profile": {
+        "solve_calls": 85468,
+        "solved_blocks": 3338342,
+        "max_count_vectors": 552,
+        "max_DP_states": 1057,
+        "total_DP_states": 3577267,
+        "max_categories": 3
+      },
+      "cases": 1409,
+      "events": 59681,
+      "queries": 45
+    }
+  }
+}

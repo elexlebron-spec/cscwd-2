@@ -1,0 +1,8 @@
+{
+  "CPU": "Apple M4",
+  "RAM_bytes": 17179869184,
+  "logical_cores": 10,
+  "measurement_source": "sysctl read-only",
+  "python": "3.9.18",
+  "system": "macOS 15.3.1 arm64"
+}

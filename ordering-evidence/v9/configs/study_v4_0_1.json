@@ -1,0 +1,79 @@
+{
+  "version": "v4.0.1-singleton-parser-fix",
+  "frozen": true,
+  "settings": {
+    "seed": 20261027,
+    "permutations": 100,
+    "top_k": [
+      5,
+      10
+    ],
+    "max_block": 10,
+    "exact_edges": 20
+  },
+  "datasets": {
+    "2013": {
+      "raw": "data/raw/mirror-BPI_Challenge_2013.xes.gz",
+      "sha256": "6ec2136c607648608655802486df97a866f351668751b7ecbca51e1f8715d522",
+      "split": "results/dev2013-audit/split.json",
+      "prior_audit": "results/dev2013-audit/audit.json",
+      "lifecycle": "all",
+      "policies": [
+        "T"
+      ]
+    },
+    "2012": {
+      "raw": "data/raw/mirror-BPI_Challenge_2012.xes.gz",
+      "sha256": "fdc916898cd56f0fb65f0c6c2f69140e6345fe9fc8be2ef1dde0647107db050b",
+      "split": "results/dev2012-audit/split.json",
+      "prior_audit": "results/dev2012-audit/audit.json",
+      "lifecycle": "complete",
+      "policies": [
+        "T"
+      ]
+    },
+    "2015": {
+      "raw": "data/raw/mirror-BPI_Challenge_2015.xes.gz",
+      "sha256": "d5847a409cec1de1b7382b59365aec6af8e53e1c2ac083201e7679c22a6ef525",
+      "split": "results/dev2015-audit/split.json",
+      "prior_audit": "results/dev2015-audit/audit.json",
+      "lifecycle": "complete",
+      "policies": [
+        "T",
+        "N",
+        "F"
+      ]
+    }
+  },
+  "scope": "identified public mirrors; descriptive sensitivity; no true-order or causal-handover accuracy",
+  "publication_hold": "Full data terms and official byte identity remain unresolved; do not redistribute raw data or submit as ready.",
+  "verification_max_case_orders": 10000,
+  "frozen_hashes": {
+    "src/run.py": "0b14048e7c854d3e41f45f1b496913aeca4ad14c5641d4598890f36c8637e53a",
+    "src/code_policy_audit.py": "6509431bd2e071b75db918fdcd47a92ec7c564cc047c13f81f319e366ce85d0c",
+    "src/convert.py": "ee8840580b2e9411b5c1f07d24854681c249d38905347f2498ff05c257661200",
+    "src/io.py": "8574380bed3674f8e7869d64401e3cafb47c42c2dfb17eb379b21cba864b4b5e",
+    "src/__init__.py": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "src/core.py": "c429a06194afefc0a1a0f1c20f483b7d306b9875a5d845a7652e04d01377dd1b",
+    "src/verify_study.py": "d3fb6f81e7d77ddbef6c8e9c7f1fce4c2b692f43320af82198126da5b63bebe2",
+    "src/verify_code_policy.py": "a39ef78b72f80d0db7d892476964f4a8b879570bcc2ea1992fa5c976729f8191",
+    "src/audit_data.py": "945b5e2a5fa4ca896e433585cb03bff5b7c92c8951585787559861ecf13350a3",
+    "src/study_data.py": "9f68d2a67fc16dea8b5442b8b3840fc6dcbca38f3bb30e464a7c76e16c63d1bd",
+    "src/development_witness.py": "774b5c18d398fb47029e28b08c2e7acf0426fdace2d825de2c21fd92c58db58a",
+    "src/verify_development.py": "1dee042c8ffd1ed86df9684c2633682fb4f0d4c0b96e68e0c18beaa93cef6ae2",
+    "src/study.py": "58f5d3c88c2c4fa0bf25254345f7831e630ebc34e28bd2fd5a4b5e69ce7789cd",
+    "src/semantic_audit.py": "e79975b78a94b9cd4daf0f28a422e980d1d3098bc15f1b4393bce661995fb7cd",
+    "tests/test_core.py": "60857df5d733e786354157919e0093df422c7f60d9067ff1cae1b819ea51ad81",
+    "tests/test_study.py": "e41495521b19826561c9d7a8c85a10692a97330980b7955736baca84c85b0659",
+    "docs/RESUMED_STUDY_PROTOCOL.md": "f33f8ac9b188b151939478ed6ec12ad06d3e3285b7258cb8872ae8cfbfa46235",
+    "data/registry.csv": "2c9fb96aef0ce581c585a6d718f41417b40932f587759593967e1e6b2eaa7f53",
+    "results/dev2012-audit/split.json": "5724794ecc49b4b42bf110e281ae663315cb02fa6fadb09dc4f8d38eedc43ff4",
+    "results/dev2012-audit/audit.json": "1f67a0f395a247dc8105b51e8d72cfb01a9ae6485c1531e261b556124ff09a61",
+    "results/dev2013-audit/split.json": "ea06d5ac459bf1f7343bfd6901303a6f40be74b7baa00ef81b5f854512b1ef53",
+    "results/dev2013-audit/audit.json": "0f4c10087b65984ef5310e2c9d56964b146e03c7640ca87e1bd3fb9eb970fb6a",
+    "results/dev2015-audit/split.json": "ed19ca277b810a83181b7fb6fbb0b26f922d8b6d4854dc9c17781787320ba711",
+    "results/dev2015-audit/audit.json": "51a21a87710941311ec0d24de0fa00cd9e2f7228a6d473dab945d49d684f845e"
+  },
+  "freeze_utc": "2026-10-27T12:40:41.903474+00:00",
+  "amendment": "Missing code on a singleton timestamp does not affect any ordering choice. Parser corrected after first reserved T runs, before N outcomes. No cases, models, budgets, or metrics changed."
+}

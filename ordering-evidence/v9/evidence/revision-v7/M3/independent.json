@@ -1,0 +1,293 @@
+{
+  "status": "passed",
+  "case_bound_comparisons": 189270,
+  "enumeration_coverage": {
+    "T": {
+      "cases_enumerated": 1388,
+      "summed_case_sequences": 49929,
+      "all_queries_checked": true
+    },
+    "N": {
+      "cases_enumerated": 1409,
+      "summed_case_sequences": 1750,
+      "all_queries_checked": true
+    },
+    "F": {
+      "cases_enumerated": 1409,
+      "summed_case_sequences": 1409,
+      "all_queries_checked": true
+    }
+  },
+  "unrelaxed_case_orders_identical": true,
+  "raw_events_matched": 59681,
+  "raw_cases": 1409,
+  "cohort_cases": 1409,
+  "seconds": 14.160372209,
+  "complete_mixed_model_witnesses": [
+    {
+      "query": 1,
+      "base_model": "F",
+      "relaxed_cases": 1,
+      "baseline_margin": 8,
+      "witness_margin": -12,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 6,
+      "base_model": "N",
+      "relaxed_cases": 3,
+      "baseline_margin": 7,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 6,
+      "base_model": "F",
+      "relaxed_cases": 4,
+      "baseline_margin": 10,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 7,
+      "base_model": "N",
+      "relaxed_cases": 2,
+      "baseline_margin": 9,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 7,
+      "base_model": "F",
+      "relaxed_cases": 6,
+      "baseline_margin": 19,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 8,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 4,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 8,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 9,
+      "witness_margin": -4,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 9,
+      "base_model": "N",
+      "relaxed_cases": 2,
+      "baseline_margin": 13,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 9,
+      "base_model": "F",
+      "relaxed_cases": 4,
+      "baseline_margin": 20,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 13,
+      "base_model": "N",
+      "relaxed_cases": 10,
+      "baseline_margin": 33,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 13,
+      "base_model": "F",
+      "relaxed_cases": 15,
+      "baseline_margin": 40,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 14,
+      "base_model": "F",
+      "relaxed_cases": 1,
+      "baseline_margin": 2,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 15,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 17,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 15,
+      "base_model": "F",
+      "relaxed_cases": 3,
+      "baseline_margin": 27,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 17,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 6,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 17,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 12,
+      "witness_margin": -4,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 18,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 4,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 18,
+      "base_model": "F",
+      "relaxed_cases": 6,
+      "baseline_margin": 16,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 25,
+      "base_model": "N",
+      "relaxed_cases": 12,
+      "baseline_margin": 21,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 25,
+      "base_model": "F",
+      "relaxed_cases": 23,
+      "baseline_margin": 33,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 37,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 2,
+      "witness_margin": -5,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 37,
+      "base_model": "F",
+      "relaxed_cases": 5,
+      "baseline_margin": 13,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 40,
+      "base_model": "N",
+      "relaxed_cases": 17,
+      "baseline_margin": 24,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 40,
+      "base_model": "F",
+      "relaxed_cases": 22,
+      "baseline_margin": 29,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 41,
+      "base_model": "F",
+      "relaxed_cases": 1,
+      "baseline_margin": 1,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 42,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 3,
+      "witness_margin": -6,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 42,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 10,
+      "witness_margin": -6,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 43,
+      "base_model": "N",
+      "relaxed_cases": 6,
+      "baseline_margin": 21,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 43,
+      "base_model": "F",
+      "relaxed_cases": 9,
+      "baseline_margin": 28,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 44,
+      "base_model": "N",
+      "relaxed_cases": 10,
+      "baseline_margin": 30,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 44,
+      "base_model": "F",
+      "relaxed_cases": 17,
+      "baseline_margin": 39,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 45,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 5,
+      "witness_margin": -4,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 45,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 11,
+      "witness_margin": -5,
+      "minimality_prefix_checked": true
+    }
+  ],
+  "limitations": "Enumeration coverage is reported per model; unenumerated case extrema rely on multiplicity DP correctness and small-instance tests. All full-log witnesses replayed; minimality uses exact case bounds."
+}

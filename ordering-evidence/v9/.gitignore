@@ -1,0 +1,9 @@
+data/raw/
+data/provenance/v8/uci498.zip
+results/
+tmp/
+__pycache__/
+*.pyc
+*private*
+*cohort.csv
+*orders.jsonl

@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "case_bound_comparisons": 2242620,
+  "enumeration_coverage": {
+    "T": {
+      "cases_enumerated": 24918,
+      "summed_case_sequences": 25048,
+      "all_queries_checked": true
+    },
+    "C": {
+      "cases_enumerated": 24918,
+      "summed_case_sequences": 24918,
+      "all_queries_checked": true
+    }
+  },
+  "unrelaxed_case_orders_identical": true,
+  "raw_events_matched": 141712,
+  "raw_cases": 24918,
+  "cohort_cases": 24918,
+  "counter_conflict_cases_retained": 5,
+  "seconds": 7.333795042,
+  "complete_mixed_model_witnesses": [],
+  "limitations": "Enumeration coverage is reported per model; unenumerated case extrema rely on multiplicity DP correctness and small-instance tests. All full-log witnesses replayed; minimality uses exact case bounds."
+}

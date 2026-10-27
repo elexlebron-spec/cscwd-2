@@ -1,0 +1,88 @@
+{
+  "scope": "v7 exploratory core replication; all N source top10 strictly different pairs; equal-cost whole-case withdrawal",
+  "dataset": "M1",
+  "cases": 999,
+  "events": 43322,
+  "queries": 45,
+  "top5_queries": 10,
+  "exact_queries": 45,
+  "independent_subset_DP_cross_checks": {
+    "T": 8795,
+    "N": 9492,
+    "F": 9483
+  },
+  "strict_reversal_witness_queries": 18,
+  "models": {
+    "N": {
+      "certified": 45,
+      "uncertified": 0,
+      "reversal_radius_distribution": {
+        "none": 36,
+        "4": 1,
+        "2": 2,
+        "14": 1,
+        "3": 1,
+        "19": 1,
+        "1": 1,
+        "8": 1,
+        "9": 1
+      },
+      "tie_radius_distribution": {
+        "none": 36,
+        "4": 1,
+        "2": 2,
+        "13": 1,
+        "18": 1,
+        "1": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "F": {
+      "certified": 45,
+      "uncertified": 0,
+      "reversal_radius_distribution": {
+        "none": 36,
+        "4": 1,
+        "2": 3,
+        "14": 1,
+        "3": 1,
+        "19": 1,
+        "10": 1,
+        "9": 1
+      },
+      "tie_radius_distribution": {
+        "none": 36,
+        "4": 1,
+        "2": 3,
+        "13": 1,
+        "18": 1,
+        "9": 1,
+        "8": 1,
+        "1": 1
+      }
+    }
+  },
+  "seconds": 21.761376958,
+  "peak_RSS_bytes": 95649792,
+  "state_profile": {
+    "solve_calls": 46655,
+    "solved_blocks": 1878222,
+    "max_count_vectors": 960,
+    "max_DP_states": 2504,
+    "total_DP_states": 2185146,
+    "max_categories": 3
+  },
+  "python": "3.9.18",
+  "machine": "arm64",
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "CPU_seconds": 21.586619,
+  "source_hashes": {
+    "extensions/run_v7.py": "af3e3295d74b0c30bd69d61672b67e407522b20ccb5c77f62ddc4cf4d6296c18",
+    "extensions/run_order_evidence.py": "8984d98c24f3d2d811f3cb316726dcb51a739fa548df0bac657291bc1295a4cc",
+    "extensions/verify_order_evidence.py": "199df2a50185877a53f17aa8029a66b72d757e86abf96c7c2e98d3c6d6036d40",
+    "extensions/__init__.py": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extensions/pair_witnesses.py": "16479aab5a16fde8b7b3ea3c5938e4c31b996e60455f86e00f1b9853a57fd89b",
+    "extensions/order_evidence.py": "6ba446953a56b1d0be4a8d002ac19836d7ee0928704d91a729fbc270dc7965c0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "dataset": "M1",
+  "cohort": "results/resumed-study/test2015-v4.0.1/cohort.csv",
+  "cohort_sha256": "62b625fc71732e8e4efefab2f2e1969bfeb5715cceb379e83bd4577a19ef0cc5",
+  "protocol_sha256": "b3e64f108db48d1f0b82392831f2d1618f8989788bd03b0359b52472e4f1f51f",
+  "source_hashes": {
+    "extensions/order_evidence.py": "6ba446953a56b1d0be4a8d002ac19836d7ee0928704d91a729fbc270dc7965c0",
+    "src/core.py": "c429a06194afefc0a1a0f1c20f483b7d306b9875a5d845a7652e04d01377dd1b",
+    "src/study_data.py": "9f68d2a67fc16dea8b5442b8b3840fc6dcbca38f3bb30e464a7c76e16c63d1bd"
+  },
+  "scope": "v7 exploratory core replication; all N source top10 strictly different pairs; equal-cost whole-case withdrawal",
+  "frozen_utc": "2026-10-27T15:13:23.130139+00:00"
+}

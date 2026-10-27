@@ -1,0 +1,35 @@
+{
+  "raw_cases": 24918,
+  "raw_events": 141712,
+  "eligible_cases": 24918,
+  "eligible_events": 141712,
+  "excluded_cases": 0,
+  "excluded_events": 0,
+  "overlapping_case_exclusion_reasons": {},
+  "counter_conflict_cases": 5,
+  "counter_conflict_events": 30,
+  "repeated_counter_groups": 5,
+  "repeated_counter_mixed_resource_groups": 5,
+  "identical_full_rows_retained": 0,
+  "resources": 846,
+  "models": {
+    "T": {
+      "blocks": 127594,
+      "tied_blocks": 13627,
+      "mixed_resource_blocks": 109,
+      "mixed_events": 236,
+      "max_mixed_block": 4
+    },
+    "C": {
+      "blocks": 141710,
+      "tied_blocks": 2,
+      "mixed_resource_blocks": 0,
+      "mixed_events": 0,
+      "max_mixed_block": 0
+    }
+  },
+  "raw_sha256": "6294e29a311647306bfdfc85783f7df66517c197b9cd49aa5ee36ba9c525d1d6",
+  "csv_sha256": "fd184bbfd62329cfe093e99da2ea7071905f2ead91900b448eb2635870821bef",
+  "cohort_sha256": "d802170c53019b61f43e48d671692cb9555d14ba8e1b8279941b3708709f8096",
+  "timestamp_semantics": "publisher local clock; no time zone inferred"
+}
