@@ -1,0 +1,5 @@
+**/data/raw/
+**/results/
+**/tmp/
+**/__pycache__/
+**/*private*
