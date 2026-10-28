@@ -1,0 +1,13 @@
+{
+  "dataset": "UCI498",
+  "cohort": "results/revision-v8/UCI498/cohort.csv",
+  "cohort_sha256": "d802170c53019b61f43e48d671692cb9555d14ba8e1b8279941b3708709f8096",
+  "protocol_sha256": "97a171018c9e75e66108be98011ed70f5d60e79715a61421d5d11add19403ca2",
+  "source_hashes": {
+    "extensions/order_evidence.py": "6ba446953a56b1d0be4a8d002ac19836d7ee0928704d91a729fbc270dc7965c0",
+    "src/core.py": "c429a06194afefc0a1a0f1c20f483b7d306b9875a5d845a7652e04d01377dd1b",
+    "extensions/uci_v8.py": "f663aba6005f386cb27f7ee7eb1b4e320d6d1e88bc9f148d281d6f4c0f30a436",
+    "extensions/run_uci_v8.py": "711dd3c823200f988fd7a60693a56591fdfdc4cfb28a2fe8dd844ff07bfbd6a2"
+  },
+  "scope": "v8 exploratory non-municipal replication; all eligible incidents; documented update counter; preserve counter-conflict cases under T"
+}

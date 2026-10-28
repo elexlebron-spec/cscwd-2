@@ -1,0 +1,19 @@
+{
+  "frozen_utc": "2026-10-28T04:46:01.997416+00:00",
+  "prior_results_known": true,
+  "post_results_analysis": true,
+  "source_hashes": {
+    "docs/ASSUMPTION_V10_PROTOCOL.md": "a743ee229e9af882c238b5b48fe55a71a56a00b989eb9974c989bf822c98af7b",
+    "extensions/assumptions_v10.py": "68cc9fb0c6eec4a51e67c3997a857fbd5fcf83ddffb80f5f59e8dd03eb9bd69b",
+    "extensions/run_assumptions_v10.py": "4d2aa91ca8d44ffef86d01c6d774f1ea1574fcd8e7dcb81dcc1022b209a45d7a",
+    "extensions/order_evidence.py": "6ba446953a56b1d0be4a8d002ac19836d7ee0928704d91a729fbc270dc7965c0",
+    "src/core.py": "c429a06194afefc0a1a0f1c20f483b7d306b9875a5d845a7652e04d01377dd1b",
+    "src/study_data.py": "9f68d2a67fc16dea8b5442b8b3840fc6dcbca38f3bb30e464a7c76e16c63d1bd"
+  },
+  "prior_bounds_sha256": {
+    "M1": "02c5f1f751f5f2ffdffb9fcdd878373bce42c123ad0a5f67db3c13f1b9d4e26f",
+    "M3": "c5345d6269ac22539999ad1ac28078ed7b78251e257ca24f72124977a781c670"
+  },
+  "queries_per_log": 45,
+  "cap": 2000000
+}

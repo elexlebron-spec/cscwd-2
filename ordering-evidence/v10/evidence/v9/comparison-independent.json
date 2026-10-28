@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "comparison_rows": 225,
+  "independent_diagnostic_groups": 10,
+  "curve_points_checked": 42,
+  "fixed_inputs_unchanged": true,
+  "scope": "post-results descriptive arithmetic; no new optimization or population claims"
+}

@@ -1,0 +1,94 @@
+{
+  "scope": "v7 exploratory core replication; all N source top10 strictly different pairs; equal-cost whole-case withdrawal",
+  "dataset": "M3",
+  "cases": 1409,
+  "events": 59681,
+  "queries": 45,
+  "top5_queries": 10,
+  "exact_queries": 45,
+  "independent_subset_DP_cross_checks": {
+    "T": 12145,
+    "N": 12930,
+    "F": 12805
+  },
+  "strict_reversal_witness_queries": 33,
+  "models": {
+    "N": {
+      "certified": 41,
+      "uncertified": 4,
+      "reversal_radius_distribution": {
+        "none": 26,
+        "3": 1,
+        "2": 2,
+        "1": 7,
+        "10": 2,
+        "12": 1,
+        "17": 1,
+        "6": 1
+      },
+      "tie_radius_distribution": {
+        "none": 26,
+        "3": 1,
+        "1": 8,
+        "2": 1,
+        "9": 2,
+        "11": 1,
+        "16": 1,
+        "5": 1
+      }
+    },
+    "F": {
+      "certified": 44,
+      "uncertified": 1,
+      "reversal_radius_distribution": {
+        "1": 3,
+        "none": 26,
+        "4": 2,
+        "6": 2,
+        "2": 4,
+        "15": 1,
+        "3": 1,
+        "23": 1,
+        "5": 1,
+        "22": 1,
+        "9": 1,
+        "17": 1
+      },
+      "tie_radius_distribution": {
+        "1": 3,
+        "none": 26,
+        "4": 3,
+        "5": 1,
+        "2": 5,
+        "14": 1,
+        "6": 1,
+        "22": 1,
+        "21": 1,
+        "8": 1,
+        "16": 1
+      }
+    }
+  },
+  "seconds": 36.0708665,
+  "peak_RSS_bytes": 120651776,
+  "state_profile": {
+    "solve_calls": 85468,
+    "solved_blocks": 3338342,
+    "max_count_vectors": 552,
+    "max_DP_states": 1057,
+    "total_DP_states": 3577267,
+    "max_categories": 3
+  },
+  "python": "3.9.18",
+  "machine": "arm64",
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "CPU_seconds": 35.991696,
+  "source_hashes": {
+    "extensions/run_v7.py": "af3e3295d74b0c30bd69d61672b67e407522b20ccb5c77f62ddc4cf4d6296c18",
+    "extensions/run_order_evidence.py": "8984d98c24f3d2d811f3cb316726dcb51a739fa548df0bac657291bc1295a4cc",
+    "extensions/verify_order_evidence.py": "199df2a50185877a53f17aa8029a66b72d757e86abf96c7c2e98d3c6d6036d40",
+    "extensions/__init__.py": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extensions/pair_witnesses.py": "16479aab5a16fde8b7b3ea3c5938e4c31b996e60455f86e00f1b9853a57fd89b",
+    "extensions/order_evidence.py": "6ba446953a56b1d0be4a8d002ac19836d7ee0928704d91a729fbc270dc7965c0"
+  }
+}

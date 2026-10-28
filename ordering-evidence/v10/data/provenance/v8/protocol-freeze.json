@@ -1,0 +1,5 @@
+{
+  "protocol": "docs/EVIDENCE_V8_PROTOCOL.md",
+  "sha256": "97a171018c9e75e66108be98011ed70f5d60e79715a61421d5d11add19403ca2",
+  "stage": "before UCI event download"
+}

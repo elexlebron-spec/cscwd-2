@@ -1,0 +1,54 @@
+{
+  "scope": "v8 exploratory non-municipal replication; all eligible incidents; documented update counter; preserve counter-conflict cases under T",
+  "dataset": "UCI498",
+  "cases": 24918,
+  "events": 141712,
+  "queries": 45,
+  "top5_queries": 10,
+  "exact_queries": 45,
+  "independent_subset_DP_cross_checks": {
+    "T": 104632,
+    "C": 104582
+  },
+  "strict_reversal_witness_queries": 0,
+  "models": {
+    "C": {
+      "certified": 45,
+      "uncertified": 0,
+      "reversal_radius_distribution": {
+        "none": 45
+      },
+      "tie_radius_distribution": {
+        "none": 45
+      }
+    }
+  },
+  "seconds": 22.096189458,
+  "peak_RSS_bytes": 520962048,
+  "state_profile": {
+    "solve_calls": 209214,
+    "solved_blocks": 1059086,
+    "max_count_vectors": 6,
+    "max_DP_states": 7,
+    "total_DP_states": 1059704,
+    "max_categories": 2
+  },
+  "python": "3.9.18",
+  "machine": "arm64",
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "CPU_seconds": 21.291113,
+  "source_hashes": {
+    "extensions/prepare_m3_v7.py": "94257089704fcb90776762a1cd05c53c075c7d9c636cc186c7a82855cc60f901",
+    "extensions/run_v7.py": "af3e3295d74b0c30bd69d61672b67e407522b20ccb5c77f62ddc4cf4d6296c18",
+    "extensions/run_order_evidence.py": "8984d98c24f3d2d811f3cb316726dcb51a739fa548df0bac657291bc1295a4cc",
+    "extensions/verify_uci_v8.py": "41524ade8dbdf6454806457e494e26f1bf3dca4a022b9e4f6caf42fa3cd83850",
+    "extensions/verify_order_evidence.py": "199df2a50185877a53f17aa8029a66b72d757e86abf96c7c2e98d3c6d6036d40",
+    "extensions/run_uci_v8.py": "711dd3c823200f988fd7a60693a56591fdfdc4cfb28a2fe8dd844ff07bfbd6a2",
+    "extensions/__init__.py": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extensions/explain_case_v7.py": "e73705c525974c1322a58480589de9be28648a4e8718936e3b10270a15c0b4e7",
+    "extensions/uci_v8.py": "f663aba6005f386cb27f7ee7eb1b4e320d6d1e88bc9f148d281d6f4c0f30a436",
+    "extensions/pair_witnesses.py": "16479aab5a16fde8b7b3ea3c5938e4c31b996e60455f86e00f1b9853a57fd89b",
+    "extensions/verify_v7.py": "613db8bcd5ccfcfbe6102f51df3b3748e96551244ab2b9fdc2c0271424ffebd5",
+    "extensions/order_evidence.py": "6ba446953a56b1d0be4a8d002ac19836d7ee0928704d91a729fbc270dc7965c0"
+  }
+}

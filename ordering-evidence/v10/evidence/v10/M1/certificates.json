@@ -1,0 +1,61 @@
+{
+  "witnesses": [
+    {
+      "query": 2,
+      "model": "W",
+      "withdrawal_count": 1,
+      "baseline_margin": 2,
+      "negative_margin": -7,
+      "all_other_case_orders_identical": true
+    },
+    {
+      "query": 8,
+      "model": "P",
+      "withdrawal_count": 6,
+      "baseline_margin": 5,
+      "negative_margin": -1,
+      "all_other_case_orders_identical": true
+    },
+    {
+      "query": 8,
+      "model": "W",
+      "withdrawal_count": 7,
+      "baseline_margin": 6,
+      "negative_margin": -1,
+      "all_other_case_orders_identical": true
+    },
+    {
+      "query": 11,
+      "model": "W",
+      "withdrawal_count": 9,
+      "baseline_margin": 30,
+      "negative_margin": -1,
+      "all_other_case_orders_identical": true
+    },
+    {
+      "query": 13,
+      "model": "W",
+      "withdrawal_count": 4,
+      "baseline_margin": 3,
+      "negative_margin": -1,
+      "all_other_case_orders_identical": true
+    },
+    {
+      "query": 31,
+      "model": "W",
+      "withdrawal_count": 9,
+      "baseline_margin": 9,
+      "negative_margin": -1,
+      "all_other_case_orders_identical": true
+    },
+    {
+      "query": 41,
+      "model": "W",
+      "withdrawal_count": 2,
+      "baseline_margin": 1,
+      "negative_margin": -1,
+      "all_other_case_orders_identical": true
+    }
+  ],
+  "independent_retention_arithmetic_queries": 180
+}

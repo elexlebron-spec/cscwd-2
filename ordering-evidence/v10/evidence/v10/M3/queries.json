@@ -1,0 +1,3332 @@
+[
+  {
+    "query": 1,
+    "edge_e": [
+      "R0001",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 13,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -44,
+        "upper": 39,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -32,
+        "upper": 37,
+        "certified": false,
+        "positive_loss_cases": 7,
+        "max_case_loss": 5,
+        "total_loss": 12,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -18,
+        "upper": 23,
+        "certified": false,
+        "positive_loss_cases": 12,
+        "max_case_loss": 11,
+        "total_loss": 26,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 0,
+        "upper": 15,
+        "certified": false,
+        "positive_loss_cases": 17,
+        "max_case_loss": 18,
+        "total_loss": 44,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "F": {
+        "status": "exact",
+        "lower": 8,
+        "upper": 8,
+        "certified": true,
+        "positive_loss_cases": 23,
+        "max_case_loss": 20,
+        "total_loss": 52,
+        "reversal_count": 1,
+        "retention_count": 16,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 2,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0008"
+    ],
+    "N_source_margin": 100,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 56,
+        "upper": 152,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 56
+      },
+      "P": {
+        "status": "exact",
+        "lower": 61,
+        "upper": 145,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 56
+      },
+      "W": {
+        "status": "exact",
+        "lower": 87,
+        "upper": 133,
+        "certified": true,
+        "positive_loss_cases": 26,
+        "max_case_loss": 6,
+        "total_loss": 31,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 56
+      },
+      "N": {
+        "status": "exact",
+        "lower": 93,
+        "upper": 116,
+        "certified": true,
+        "positive_loss_cases": 27,
+        "max_case_loss": 9,
+        "total_loss": 37,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 56
+      },
+      "F": {
+        "status": "exact",
+        "lower": 101,
+        "upper": 101,
+        "certified": true,
+        "positive_loss_cases": 31,
+        "max_case_loss": 11,
+        "total_loss": 45,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 56
+      }
+    }
+  },
+  {
+    "query": 3,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0008"
+    ],
+    "N_source_margin": 85,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 38,
+        "upper": 129,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "P": {
+        "status": "exact",
+        "lower": 43,
+        "upper": 124,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "W": {
+        "status": "exact",
+        "lower": 69,
+        "upper": 111,
+        "certified": true,
+        "positive_loss_cases": 26,
+        "max_case_loss": 6,
+        "total_loss": 31,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "N": {
+        "status": "exact",
+        "lower": 75,
+        "upper": 97,
+        "certified": true,
+        "positive_loss_cases": 27,
+        "max_case_loss": 9,
+        "total_loss": 37,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "F": {
+        "status": "exact",
+        "lower": 85,
+        "upper": 85,
+        "certified": true,
+        "positive_loss_cases": 33,
+        "max_case_loss": 11,
+        "total_loss": 47,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      }
+    }
+  },
+  {
+    "query": 4,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0008"
+    ],
+    "N_source_margin": 117,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 69,
+        "upper": 164,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 69
+      },
+      "P": {
+        "status": "exact",
+        "lower": 80,
+        "upper": 157,
+        "certified": true,
+        "positive_loss_cases": 11,
+        "max_case_loss": 1,
+        "total_loss": 11,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 69
+      },
+      "W": {
+        "status": "exact",
+        "lower": 98,
+        "upper": 149,
+        "certified": true,
+        "positive_loss_cases": 24,
+        "max_case_loss": 6,
+        "total_loss": 29,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 69
+      },
+      "N": {
+        "status": "exact",
+        "lower": 110,
+        "upper": 133,
+        "certified": true,
+        "positive_loss_cases": 31,
+        "max_case_loss": 9,
+        "total_loss": 41,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 69
+      },
+      "F": {
+        "status": "exact",
+        "lower": 118,
+        "upper": 118,
+        "certified": true,
+        "positive_loss_cases": 35,
+        "max_case_loss": 11,
+        "total_loss": 49,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 69
+      }
+    }
+  },
+  {
+    "query": 5,
+    "edge_e": [
+      "R0008",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0008"
+    ],
+    "N_source_margin": 29,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 5,
+        "upper": 60,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 5
+      },
+      "P": {
+        "status": "exact",
+        "lower": 10,
+        "upper": 55,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 5
+      },
+      "W": {
+        "status": "exact",
+        "lower": 16,
+        "upper": 51,
+        "certified": true,
+        "positive_loss_cases": 6,
+        "max_case_loss": 6,
+        "total_loss": 11,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 5
+      },
+      "N": {
+        "status": "exact",
+        "lower": 25,
+        "upper": 37,
+        "certified": true,
+        "positive_loss_cases": 12,
+        "max_case_loss": 9,
+        "total_loss": 20,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 5
+      },
+      "F": {
+        "status": "exact",
+        "lower": 32,
+        "upper": 32,
+        "certified": true,
+        "positive_loss_cases": 15,
+        "max_case_loss": 11,
+        "total_loss": 27,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 5
+      }
+    }
+  },
+  {
+    "query": 6,
+    "edge_e": [
+      "R0001",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 16,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -18,
+        "upper": 36,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -5,
+        "upper": 34,
+        "certified": false,
+        "positive_loss_cases": 9,
+        "max_case_loss": 3,
+        "total_loss": 13,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -11,
+        "upper": 23,
+        "certified": false,
+        "positive_loss_cases": 7,
+        "max_case_loss": 1,
+        "total_loss": 7,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 7,
+        "upper": 18,
+        "certified": true,
+        "positive_loss_cases": 16,
+        "max_case_loss": 3,
+        "total_loss": 25,
+        "reversal_count": 3,
+        "retention_count": 10,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 10,
+        "upper": 10,
+        "certified": true,
+        "positive_loss_cases": 19,
+        "max_case_loss": 3,
+        "total_loss": 28,
+        "reversal_count": 4,
+        "retention_count": 10,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 7,
+    "edge_e": [
+      "R0011",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0008"
+    ],
+    "N_source_margin": 19,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -31,
+        "upper": 64,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -22,
+        "upper": 58,
+        "certified": false,
+        "positive_loss_cases": 9,
+        "max_case_loss": 1,
+        "total_loss": 9,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": 0,
+        "upper": 47,
+        "certified": false,
+        "positive_loss_cases": 26,
+        "max_case_loss": 6,
+        "total_loss": 31,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 9,
+        "upper": 31,
+        "certified": true,
+        "positive_loss_cases": 30,
+        "max_case_loss": 9,
+        "total_loss": 40,
+        "reversal_count": 2,
+        "retention_count": 22,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 19,
+        "upper": 19,
+        "certified": true,
+        "positive_loss_cases": 36,
+        "max_case_loss": 11,
+        "total_loss": 50,
+        "reversal_count": 6,
+        "retention_count": 18,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 8,
+    "edge_e": [
+      "R0001",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0009"
+    ],
+    "N_source_margin": 11,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -29,
+        "upper": 38,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -22,
+        "upper": 30,
+        "certified": false,
+        "positive_loss_cases": 7,
+        "max_case_loss": 1,
+        "total_loss": 7,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -13,
+        "upper": 27,
+        "certified": false,
+        "positive_loss_cases": 11,
+        "max_case_loss": 3,
+        "total_loss": 16,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 4,
+        "upper": 16,
+        "certified": true,
+        "positive_loss_cases": 15,
+        "max_case_loss": 7,
+        "total_loss": 33,
+        "reversal_count": 1,
+        "retention_count": 12,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 9,
+        "upper": 9,
+        "certified": true,
+        "positive_loss_cases": 17,
+        "max_case_loss": 8,
+        "total_loss": 38,
+        "reversal_count": 2,
+        "retention_count": 9,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 9,
+    "edge_e": [
+      "R0001",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 22,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -35,
+        "upper": 57,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -29,
+        "upper": 50,
+        "certified": false,
+        "positive_loss_cases": 6,
+        "max_case_loss": 1,
+        "total_loss": 6,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -11,
+        "upper": 34,
+        "certified": false,
+        "positive_loss_cases": 19,
+        "max_case_loss": 2,
+        "total_loss": 24,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 13,
+        "upper": 28,
+        "certified": true,
+        "positive_loss_cases": 25,
+        "max_case_loss": 9,
+        "total_loss": 48,
+        "reversal_count": 2,
+        "retention_count": 13,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 20,
+        "upper": 20,
+        "certified": true,
+        "positive_loss_cases": 32,
+        "max_case_loss": 9,
+        "total_loss": 55,
+        "reversal_count": 4,
+        "retention_count": 13,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 10,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 113,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 45,
+        "upper": 158,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 45
+      },
+      "P": {
+        "status": "exact",
+        "lower": 57,
+        "upper": 154,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 5,
+        "total_loss": 12,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 45
+      },
+      "W": {
+        "status": "exact",
+        "lower": 87,
+        "upper": 138,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 11,
+        "total_loss": 42,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 45
+      },
+      "N": {
+        "status": "exact",
+        "lower": 101,
+        "upper": 123,
+        "certified": true,
+        "positive_loss_cases": 30,
+        "max_case_loss": 18,
+        "total_loss": 56,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 45
+      },
+      "F": {
+        "status": "exact",
+        "lower": 109,
+        "upper": 109,
+        "certified": true,
+        "positive_loss_cases": 36,
+        "max_case_loss": 20,
+        "total_loss": 64,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 45
+      }
+    }
+  },
+  {
+    "query": 11,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 98,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 27,
+        "upper": 135,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 27
+      },
+      "P": {
+        "status": "exact",
+        "lower": 39,
+        "upper": 133,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 5,
+        "total_loss": 12,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 27
+      },
+      "W": {
+        "status": "exact",
+        "lower": 69,
+        "upper": 116,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 11,
+        "total_loss": 42,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 27
+      },
+      "N": {
+        "status": "exact",
+        "lower": 83,
+        "upper": 104,
+        "certified": true,
+        "positive_loss_cases": 30,
+        "max_case_loss": 18,
+        "total_loss": 56,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 27
+      },
+      "F": {
+        "status": "exact",
+        "lower": 93,
+        "upper": 93,
+        "certified": true,
+        "positive_loss_cases": 38,
+        "max_case_loss": 20,
+        "total_loss": 66,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 27
+      }
+    }
+  },
+  {
+    "query": 12,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 130,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 58,
+        "upper": 170,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 58
+      },
+      "P": {
+        "status": "exact",
+        "lower": 76,
+        "upper": 167,
+        "certified": true,
+        "positive_loss_cases": 13,
+        "max_case_loss": 5,
+        "total_loss": 18,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 58
+      },
+      "W": {
+        "status": "exact",
+        "lower": 98,
+        "upper": 155,
+        "certified": true,
+        "positive_loss_cases": 26,
+        "max_case_loss": 11,
+        "total_loss": 40,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 58
+      },
+      "N": {
+        "status": "exact",
+        "lower": 118,
+        "upper": 140,
+        "certified": true,
+        "positive_loss_cases": 34,
+        "max_case_loss": 18,
+        "total_loss": 60,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 58
+      },
+      "F": {
+        "status": "exact",
+        "lower": 126,
+        "upper": 126,
+        "certified": true,
+        "positive_loss_cases": 40,
+        "max_case_loss": 20,
+        "total_loss": 68,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 58
+      }
+    }
+  },
+  {
+    "query": 13,
+    "edge_e": [
+      "R0008",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 42,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -6,
+        "upper": 66,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": 6,
+        "upper": 64,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 5,
+        "total_loss": 12,
+        "reversal_count": 2,
+        "retention_count": 2,
+        "retention_minimum": 1
+      },
+      "W": {
+        "status": "exact",
+        "lower": 16,
+        "upper": 56,
+        "certified": true,
+        "positive_loss_cases": 8,
+        "max_case_loss": 11,
+        "total_loss": 22,
+        "reversal_count": 3,
+        "retention_count": 1,
+        "retention_minimum": 5
+      },
+      "N": {
+        "status": "exact",
+        "lower": 33,
+        "upper": 44,
+        "certified": true,
+        "positive_loss_cases": 15,
+        "max_case_loss": 18,
+        "total_loss": 39,
+        "reversal_count": 10,
+        "retention_count": 1,
+        "retention_minimum": 12
+      },
+      "F": {
+        "status": "exact",
+        "lower": 40,
+        "upper": 40,
+        "certified": true,
+        "positive_loss_cases": 20,
+        "max_case_loss": 20,
+        "total_loss": 46,
+        "reversal_count": 15,
+        "retention_count": 1,
+        "retention_minimum": 14
+      }
+    }
+  },
+  {
+    "query": 14,
+    "edge_e": [
+      "R0001",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 3,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -24,
+        "upper": 47,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -14,
+        "upper": 38,
+        "certified": false,
+        "positive_loss_cases": 6,
+        "max_case_loss": 3,
+        "total_loss": 10,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -16,
+        "upper": 23,
+        "certified": false,
+        "positive_loss_cases": 8,
+        "max_case_loss": 1,
+        "total_loss": 8,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 0,
+        "upper": 10,
+        "certified": false,
+        "positive_loss_cases": 16,
+        "max_case_loss": 3,
+        "total_loss": 24,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "F": {
+        "status": "exact",
+        "lower": 2,
+        "upper": 2,
+        "certified": true,
+        "positive_loss_cases": 18,
+        "max_case_loss": 3,
+        "total_loss": 26,
+        "reversal_count": 1,
+        "retention_count": 17,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 15,
+    "edge_e": [
+      "R0011",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 32,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -42,
+        "upper": 70,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -26,
+        "upper": 67,
+        "certified": false,
+        "positive_loss_cases": 11,
+        "max_case_loss": 5,
+        "total_loss": 16,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": 0,
+        "upper": 52,
+        "certified": false,
+        "positive_loss_cases": 28,
+        "max_case_loss": 11,
+        "total_loss": 42,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 17,
+        "upper": 38,
+        "certified": true,
+        "positive_loss_cases": 33,
+        "max_case_loss": 18,
+        "total_loss": 59,
+        "reversal_count": 1,
+        "retention_count": 17,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 27,
+        "upper": 27,
+        "certified": true,
+        "positive_loss_cases": 41,
+        "max_case_loss": 20,
+        "total_loss": 69,
+        "reversal_count": 3,
+        "retention_count": 15,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 16,
+    "edge_e": [
+      "R0011",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0001",
+      "R0011"
+    ],
+    "N_source_margin": 2,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -49,
+        "upper": 35,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -34,
+        "upper": 31,
+        "certified": false,
+        "positive_loss_cases": 10,
+        "max_case_loss": 5,
+        "total_loss": 15,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -27,
+        "upper": 18,
+        "certified": false,
+        "positive_loss_cases": 8,
+        "max_case_loss": 11,
+        "total_loss": 22,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": -8,
+        "upper": 3,
+        "certified": false,
+        "positive_loss_cases": 17,
+        "max_case_loss": 18,
+        "total_loss": 41,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "F": {
+        "status": "exact",
+        "lower": -1,
+        "upper": -1,
+        "certified": false,
+        "positive_loss_cases": 22,
+        "max_case_loss": 20,
+        "total_loss": 48,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      }
+    }
+  },
+  {
+    "query": 17,
+    "edge_e": [
+      "R0001",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 9,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -41,
+        "upper": 68,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -38,
+        "upper": 54,
+        "certified": false,
+        "positive_loss_cases": 3,
+        "max_case_loss": 1,
+        "total_loss": 3,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -16,
+        "upper": 34,
+        "certified": false,
+        "positive_loss_cases": 20,
+        "max_case_loss": 2,
+        "total_loss": 25,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 6,
+        "upper": 20,
+        "certified": true,
+        "positive_loss_cases": 25,
+        "max_case_loss": 9,
+        "total_loss": 47,
+        "reversal_count": 1,
+        "retention_count": 20,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 12,
+        "upper": 12,
+        "certified": true,
+        "positive_loss_cases": 31,
+        "max_case_loss": 9,
+        "total_loss": 53,
+        "reversal_count": 2,
+        "retention_count": 20,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 18,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0007",
+      "R0011"
+    ],
+    "N_source_margin": 15,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -40,
+        "upper": 81,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -35,
+        "upper": 74,
+        "certified": false,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -6,
+        "upper": 46,
+        "certified": false,
+        "positive_loss_cases": 31,
+        "max_case_loss": 2,
+        "total_loss": 34,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 4,
+        "upper": 33,
+        "certified": true,
+        "positive_loss_cases": 34,
+        "max_case_loss": 7,
+        "total_loss": 44,
+        "reversal_count": 1,
+        "retention_count": 31,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 16,
+        "upper": 16,
+        "certified": true,
+        "positive_loss_cases": 45,
+        "max_case_loss": 7,
+        "total_loss": 56,
+        "reversal_count": 6,
+        "retention_count": 30,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 19,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0007",
+      "R0008"
+    ],
+    "N_source_margin": 17,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 3,
+        "upper": 22,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "P": {
+        "status": "exact",
+        "lower": 11,
+        "upper": 21,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 2,
+        "total_loss": 8,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "W": {
+        "status": "exact",
+        "lower": 9,
+        "upper": 19,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 2,
+        "total_loss": 6,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "N": {
+        "status": "exact",
+        "lower": 17,
+        "upper": 17,
+        "certified": true,
+        "positive_loss_cases": 11,
+        "max_case_loss": 3,
+        "total_loss": 14,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "F": {
+        "status": "exact",
+        "lower": 17,
+        "upper": 17,
+        "certified": true,
+        "positive_loss_cases": 11,
+        "max_case_loss": 3,
+        "total_loss": 14,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      }
+    }
+  },
+  {
+    "query": 20,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0008",
+      "R0009"
+    ],
+    "N_source_margin": 71,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 29,
+        "upper": 113,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 29
+      },
+      "P": {
+        "status": "exact",
+        "lower": 34,
+        "upper": 106,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 29
+      },
+      "W": {
+        "status": "exact",
+        "lower": 54,
+        "upper": 99,
+        "certified": true,
+        "positive_loss_cases": 24,
+        "max_case_loss": 2,
+        "total_loss": 25,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 29
+      },
+      "N": {
+        "status": "exact",
+        "lower": 64,
+        "upper": 83,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 4,
+        "total_loss": 35,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 29
+      },
+      "F": {
+        "status": "exact",
+        "lower": 69,
+        "upper": 69,
+        "certified": true,
+        "positive_loss_cases": 30,
+        "max_case_loss": 5,
+        "total_loss": 40,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 29
+      }
+    }
+  },
+  {
+    "query": 21,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 116,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 72,
+        "upper": 154,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 72
+      },
+      "P": {
+        "status": "exact",
+        "lower": 85,
+        "upper": 150,
+        "certified": true,
+        "positive_loss_cases": 9,
+        "max_case_loss": 3,
+        "total_loss": 13,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 72
+      },
+      "W": {
+        "status": "exact",
+        "lower": 94,
+        "upper": 138,
+        "certified": true,
+        "positive_loss_cases": 22,
+        "max_case_loss": 1,
+        "total_loss": 22,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 72
+      },
+      "N": {
+        "status": "exact",
+        "lower": 108,
+        "upper": 126,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 3,
+        "total_loss": 36,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 72
+      },
+      "F": {
+        "status": "exact",
+        "lower": 111,
+        "upper": 111,
+        "certified": true,
+        "positive_loss_cases": 31,
+        "max_case_loss": 3,
+        "total_loss": 39,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 72
+      }
+    }
+  },
+  {
+    "query": 22,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0007"
+    ],
+    "N_source_margin": 81,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 26,
+        "upper": 149,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 26
+      },
+      "P": {
+        "status": "exact",
+        "lower": 32,
+        "upper": 138,
+        "certified": true,
+        "positive_loss_cases": 6,
+        "max_case_loss": 1,
+        "total_loss": 6,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 26
+      },
+      "W": {
+        "status": "exact",
+        "lower": 58,
+        "upper": 115,
+        "certified": true,
+        "positive_loss_cases": 29,
+        "max_case_loss": 2,
+        "total_loss": 32,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 26
+      },
+      "N": {
+        "status": "exact",
+        "lower": 70,
+        "upper": 99,
+        "certified": true,
+        "positive_loss_cases": 34,
+        "max_case_loss": 7,
+        "total_loss": 44,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 26
+      },
+      "F": {
+        "status": "exact",
+        "lower": 82,
+        "upper": 82,
+        "certified": true,
+        "positive_loss_cases": 45,
+        "max_case_loss": 7,
+        "total_loss": 56,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 26
+      }
+    }
+  },
+  {
+    "query": 23,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0009"
+    ],
+    "N_source_margin": 111,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 60,
+        "upper": 157,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 60
+      },
+      "P": {
+        "status": "exact",
+        "lower": 67,
+        "upper": 147,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 1,
+        "total_loss": 7,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 60
+      },
+      "W": {
+        "status": "exact",
+        "lower": 92,
+        "upper": 142,
+        "certified": true,
+        "positive_loss_cases": 27,
+        "max_case_loss": 3,
+        "total_loss": 32,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 60
+      },
+      "N": {
+        "status": "exact",
+        "lower": 105,
+        "upper": 124,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 7,
+        "total_loss": 45,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 60
+      },
+      "F": {
+        "status": "exact",
+        "lower": 110,
+        "upper": 110,
+        "certified": true,
+        "positive_loss_cases": 30,
+        "max_case_loss": 8,
+        "total_loss": 50,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 60
+      }
+    }
+  },
+  {
+    "query": 24,
+    "edge_e": [
+      "R0007",
+      "R0008"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 122,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 54,
+        "upper": 176,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "P": {
+        "status": "exact",
+        "lower": 60,
+        "upper": 167,
+        "certified": true,
+        "positive_loss_cases": 6,
+        "max_case_loss": 1,
+        "total_loss": 6,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "W": {
+        "status": "exact",
+        "lower": 94,
+        "upper": 149,
+        "certified": true,
+        "positive_loss_cases": 35,
+        "max_case_loss": 2,
+        "total_loss": 40,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "N": {
+        "status": "exact",
+        "lower": 114,
+        "upper": 136,
+        "certified": true,
+        "positive_loss_cases": 38,
+        "max_case_loss": 9,
+        "total_loss": 60,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "F": {
+        "status": "exact",
+        "lower": 121,
+        "upper": 121,
+        "certified": true,
+        "positive_loss_cases": 45,
+        "max_case_loss": 9,
+        "total_loss": 67,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      }
+    }
+  },
+  {
+    "query": 25,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0007",
+      "R0011"
+    ],
+    "N_source_margin": 32,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -27,
+        "upper": 93,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -16,
+        "upper": 87,
+        "certified": false,
+        "positive_loss_cases": 11,
+        "max_case_loss": 1,
+        "total_loss": 11,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": 5,
+        "upper": 63,
+        "certified": true,
+        "positive_loss_cases": 29,
+        "max_case_loss": 2,
+        "total_loss": 32,
+        "reversal_count": 3,
+        "retention_count": 25,
+        "retention_minimum": 1
+      },
+      "N": {
+        "status": "exact",
+        "lower": 21,
+        "upper": 50,
+        "certified": true,
+        "positive_loss_cases": 38,
+        "max_case_loss": 7,
+        "total_loss": 48,
+        "reversal_count": 12,
+        "retention_count": 18,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 33,
+        "upper": 33,
+        "certified": true,
+        "positive_loss_cases": 49,
+        "max_case_loss": 7,
+        "total_loss": 60,
+        "reversal_count": 23,
+        "retention_count": 17,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 26,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0008",
+      "R0009"
+    ],
+    "N_source_margin": 56,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 11,
+        "upper": 91,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 11
+      },
+      "P": {
+        "status": "exact",
+        "lower": 16,
+        "upper": 86,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 11
+      },
+      "W": {
+        "status": "exact",
+        "lower": 36,
+        "upper": 77,
+        "certified": true,
+        "positive_loss_cases": 24,
+        "max_case_loss": 2,
+        "total_loss": 25,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 11
+      },
+      "N": {
+        "status": "exact",
+        "lower": 46,
+        "upper": 64,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 4,
+        "total_loss": 35,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 11
+      },
+      "F": {
+        "status": "exact",
+        "lower": 53,
+        "upper": 53,
+        "certified": true,
+        "positive_loss_cases": 32,
+        "max_case_loss": 5,
+        "total_loss": 42,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 11
+      }
+    }
+  },
+  {
+    "query": 27,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 101,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 54,
+        "upper": 131,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "P": {
+        "status": "exact",
+        "lower": 67,
+        "upper": 129,
+        "certified": true,
+        "positive_loss_cases": 9,
+        "max_case_loss": 3,
+        "total_loss": 13,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "W": {
+        "status": "exact",
+        "lower": 76,
+        "upper": 116,
+        "certified": true,
+        "positive_loss_cases": 22,
+        "max_case_loss": 1,
+        "total_loss": 22,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "N": {
+        "status": "exact",
+        "lower": 90,
+        "upper": 107,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 3,
+        "total_loss": 36,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      },
+      "F": {
+        "status": "exact",
+        "lower": 95,
+        "upper": 95,
+        "certified": true,
+        "positive_loss_cases": 33,
+        "max_case_loss": 3,
+        "total_loss": 41,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 54
+      }
+    }
+  },
+  {
+    "query": 28,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0007"
+    ],
+    "N_source_margin": 66,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 61,
+        "upper": 71,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 61
+      },
+      "P": {
+        "status": "exact",
+        "lower": 63,
+        "upper": 68,
+        "certified": true,
+        "positive_loss_cases": 2,
+        "max_case_loss": 1,
+        "total_loss": 2,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 61
+      },
+      "W": {
+        "status": "exact",
+        "lower": 64,
+        "upper": 69,
+        "certified": true,
+        "positive_loss_cases": 3,
+        "max_case_loss": 1,
+        "total_loss": 3,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 61
+      },
+      "N": {
+        "status": "exact",
+        "lower": 66,
+        "upper": 66,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 61
+      },
+      "F": {
+        "status": "exact",
+        "lower": 66,
+        "upper": 66,
+        "certified": true,
+        "positive_loss_cases": 5,
+        "max_case_loss": 1,
+        "total_loss": 5,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 61
+      }
+    }
+  },
+  {
+    "query": 29,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0009"
+    ],
+    "N_source_margin": 96,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 42,
+        "upper": 134,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "P": {
+        "status": "exact",
+        "lower": 49,
+        "upper": 126,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 1,
+        "total_loss": 7,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "W": {
+        "status": "exact",
+        "lower": 74,
+        "upper": 120,
+        "certified": true,
+        "positive_loss_cases": 27,
+        "max_case_loss": 3,
+        "total_loss": 32,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "N": {
+        "status": "exact",
+        "lower": 87,
+        "upper": 105,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 7,
+        "total_loss": 45,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "F": {
+        "status": "exact",
+        "lower": 94,
+        "upper": 94,
+        "certified": true,
+        "positive_loss_cases": 32,
+        "max_case_loss": 8,
+        "total_loss": 52,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      }
+    }
+  },
+  {
+    "query": 30,
+    "edge_e": [
+      "R0007",
+      "R0011"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 107,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 36,
+        "upper": 152,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 36
+      },
+      "P": {
+        "status": "exact",
+        "lower": 43,
+        "upper": 145,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 1,
+        "total_loss": 7,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 36
+      },
+      "W": {
+        "status": "exact",
+        "lower": 76,
+        "upper": 127,
+        "certified": true,
+        "positive_loss_cases": 34,
+        "max_case_loss": 2,
+        "total_loss": 40,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 36
+      },
+      "N": {
+        "status": "exact",
+        "lower": 96,
+        "upper": 117,
+        "certified": true,
+        "positive_loss_cases": 37,
+        "max_case_loss": 9,
+        "total_loss": 60,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 36
+      },
+      "F": {
+        "status": "exact",
+        "lower": 105,
+        "upper": 105,
+        "certified": true,
+        "positive_loss_cases": 46,
+        "max_case_loss": 9,
+        "total_loss": 69,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 36
+      }
+    }
+  },
+  {
+    "query": 31,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0008",
+      "R0009"
+    ],
+    "N_source_margin": 88,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 42,
+        "upper": 126,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "P": {
+        "status": "exact",
+        "lower": 53,
+        "upper": 120,
+        "certified": true,
+        "positive_loss_cases": 11,
+        "max_case_loss": 1,
+        "total_loss": 11,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "W": {
+        "status": "exact",
+        "lower": 65,
+        "upper": 116,
+        "certified": true,
+        "positive_loss_cases": 21,
+        "max_case_loss": 3,
+        "total_loss": 23,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "N": {
+        "status": "exact",
+        "lower": 81,
+        "upper": 100,
+        "certified": true,
+        "positive_loss_cases": 31,
+        "max_case_loss": 4,
+        "total_loss": 39,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      },
+      "F": {
+        "status": "exact",
+        "lower": 86,
+        "upper": 86,
+        "certified": true,
+        "positive_loss_cases": 33,
+        "max_case_loss": 5,
+        "total_loss": 44,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 42
+      }
+    }
+  },
+  {
+    "query": 32,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 133,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 84,
+        "upper": 167,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 84
+      },
+      "P": {
+        "status": "exact",
+        "lower": 103,
+        "upper": 164,
+        "certified": true,
+        "positive_loss_cases": 15,
+        "max_case_loss": 3,
+        "total_loss": 19,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 84
+      },
+      "W": {
+        "status": "exact",
+        "lower": 105,
+        "upper": 155,
+        "certified": true,
+        "positive_loss_cases": 20,
+        "max_case_loss": 2,
+        "total_loss": 21,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 84
+      },
+      "N": {
+        "status": "exact",
+        "lower": 125,
+        "upper": 143,
+        "certified": true,
+        "positive_loss_cases": 32,
+        "max_case_loss": 3,
+        "total_loss": 41,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 84
+      },
+      "F": {
+        "status": "exact",
+        "lower": 128,
+        "upper": 128,
+        "certified": true,
+        "positive_loss_cases": 35,
+        "max_case_loss": 3,
+        "total_loss": 44,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 84
+      }
+    }
+  },
+  {
+    "query": 33,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0007"
+    ],
+    "N_source_margin": 98,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 38,
+        "upper": 162,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "P": {
+        "status": "exact",
+        "lower": 50,
+        "upper": 152,
+        "certified": true,
+        "positive_loss_cases": 12,
+        "max_case_loss": 1,
+        "total_loss": 12,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "W": {
+        "status": "exact",
+        "lower": 69,
+        "upper": 132,
+        "certified": true,
+        "positive_loss_cases": 28,
+        "max_case_loss": 2,
+        "total_loss": 31,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "N": {
+        "status": "exact",
+        "lower": 87,
+        "upper": 116,
+        "certified": true,
+        "positive_loss_cases": 39,
+        "max_case_loss": 7,
+        "total_loss": 49,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      },
+      "F": {
+        "status": "exact",
+        "lower": 99,
+        "upper": 99,
+        "certified": true,
+        "positive_loss_cases": 50,
+        "max_case_loss": 7,
+        "total_loss": 61,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 38
+      }
+    }
+  },
+  {
+    "query": 34,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0009"
+    ],
+    "N_source_margin": 128,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 73,
+        "upper": 169,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 73
+      },
+      "P": {
+        "status": "exact",
+        "lower": 86,
+        "upper": 160,
+        "certified": true,
+        "positive_loss_cases": 13,
+        "max_case_loss": 1,
+        "total_loss": 13,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 73
+      },
+      "W": {
+        "status": "exact",
+        "lower": 103,
+        "upper": 159,
+        "certified": true,
+        "positive_loss_cases": 25,
+        "max_case_loss": 3,
+        "total_loss": 30,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 73
+      },
+      "N": {
+        "status": "exact",
+        "lower": 122,
+        "upper": 141,
+        "certified": true,
+        "positive_loss_cases": 32,
+        "max_case_loss": 7,
+        "total_loss": 49,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 73
+      },
+      "F": {
+        "status": "exact",
+        "lower": 127,
+        "upper": 127,
+        "certified": true,
+        "positive_loss_cases": 34,
+        "max_case_loss": 8,
+        "total_loss": 54,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 73
+      }
+    }
+  },
+  {
+    "query": 35,
+    "edge_e": [
+      "R0008",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 139,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 67,
+        "upper": 188,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 67
+      },
+      "P": {
+        "status": "exact",
+        "lower": 79,
+        "upper": 180,
+        "certified": true,
+        "positive_loss_cases": 12,
+        "max_case_loss": 1,
+        "total_loss": 12,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 67
+      },
+      "W": {
+        "status": "exact",
+        "lower": 105,
+        "upper": 166,
+        "certified": true,
+        "positive_loss_cases": 33,
+        "max_case_loss": 2,
+        "total_loss": 38,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 67
+      },
+      "N": {
+        "status": "exact",
+        "lower": 131,
+        "upper": 153,
+        "certified": true,
+        "positive_loss_cases": 42,
+        "max_case_loss": 9,
+        "total_loss": 64,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 67
+      },
+      "F": {
+        "status": "exact",
+        "lower": 138,
+        "upper": 138,
+        "certified": true,
+        "positive_loss_cases": 49,
+        "max_case_loss": 9,
+        "total_loss": 71,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 67
+      }
+    }
+  },
+  {
+    "query": 36,
+    "edge_e": [
+      "R0008",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 45,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 21,
+        "upper": 62,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 21
+      },
+      "P": {
+        "status": "exact",
+        "lower": 34,
+        "upper": 60,
+        "certified": true,
+        "positive_loss_cases": 9,
+        "max_case_loss": 3,
+        "total_loss": 13,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 21
+      },
+      "W": {
+        "status": "exact",
+        "lower": 23,
+        "upper": 56,
+        "certified": true,
+        "positive_loss_cases": 2,
+        "max_case_loss": 1,
+        "total_loss": 2,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 21
+      },
+      "N": {
+        "status": "exact",
+        "lower": 40,
+        "upper": 47,
+        "certified": true,
+        "positive_loss_cases": 13,
+        "max_case_loss": 3,
+        "total_loss": 19,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 21
+      },
+      "F": {
+        "status": "exact",
+        "lower": 42,
+        "upper": 42,
+        "certified": true,
+        "positive_loss_cases": 15,
+        "max_case_loss": 3,
+        "total_loss": 21,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 21
+      }
+    }
+  },
+  {
+    "query": 37,
+    "edge_e": [
+      "R0008",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0007"
+    ],
+    "N_source_margin": 10,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -26,
+        "upper": 58,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -20,
+        "upper": 49,
+        "certified": false,
+        "positive_loss_cases": 6,
+        "max_case_loss": 1,
+        "total_loss": 6,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -13,
+        "upper": 33,
+        "certified": false,
+        "positive_loss_cases": 10,
+        "max_case_loss": 2,
+        "total_loss": 13,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 2,
+        "upper": 20,
+        "certified": true,
+        "positive_loss_cases": 19,
+        "max_case_loss": 7,
+        "total_loss": 28,
+        "reversal_count": 1,
+        "retention_count": 18,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 13,
+        "upper": 13,
+        "certified": true,
+        "positive_loss_cases": 29,
+        "max_case_loss": 7,
+        "total_loss": 39,
+        "reversal_count": 5,
+        "retention_count": 17,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 38,
+    "edge_e": [
+      "R0008",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0009"
+    ],
+    "N_source_margin": 40,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 9,
+        "upper": 65,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 9
+      },
+      "P": {
+        "status": "exact",
+        "lower": 16,
+        "upper": 57,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 1,
+        "total_loss": 7,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 9
+      },
+      "W": {
+        "status": "exact",
+        "lower": 21,
+        "upper": 60,
+        "certified": true,
+        "positive_loss_cases": 7,
+        "max_case_loss": 3,
+        "total_loss": 12,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 9
+      },
+      "N": {
+        "status": "exact",
+        "lower": 37,
+        "upper": 45,
+        "certified": true,
+        "positive_loss_cases": 13,
+        "max_case_loss": 7,
+        "total_loss": 28,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 9
+      },
+      "F": {
+        "status": "exact",
+        "lower": 41,
+        "upper": 41,
+        "certified": true,
+        "positive_loss_cases": 14,
+        "max_case_loss": 8,
+        "total_loss": 32,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 9
+      }
+    }
+  },
+  {
+    "query": 39,
+    "edge_e": [
+      "R0008",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 51,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": 3,
+        "upper": 84,
+        "certified": true,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "P": {
+        "status": "exact",
+        "lower": 9,
+        "upper": 77,
+        "certified": true,
+        "positive_loss_cases": 6,
+        "max_case_loss": 1,
+        "total_loss": 6,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "W": {
+        "status": "exact",
+        "lower": 23,
+        "upper": 67,
+        "certified": true,
+        "positive_loss_cases": 15,
+        "max_case_loss": 2,
+        "total_loss": 20,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "N": {
+        "status": "exact",
+        "lower": 46,
+        "upper": 57,
+        "certified": true,
+        "positive_loss_cases": 23,
+        "max_case_loss": 9,
+        "total_loss": 43,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      },
+      "F": {
+        "status": "exact",
+        "lower": 52,
+        "upper": 52,
+        "certified": true,
+        "positive_loss_cases": 29,
+        "max_case_loss": 9,
+        "total_loss": 49,
+        "reversal_count": null,
+        "retention_count": 0,
+        "retention_minimum": 3
+      }
+    }
+  },
+  {
+    "query": 40,
+    "edge_e": [
+      "R0011",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 35,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -16,
+        "upper": 67,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": 1,
+        "upper": 64,
+        "certified": true,
+        "positive_loss_cases": 13,
+        "max_case_loss": 3,
+        "total_loss": 17,
+        "reversal_count": 1,
+        "retention_count": 13,
+        "retention_minimum": 1
+      },
+      "W": {
+        "status": "exact",
+        "lower": 7,
+        "upper": 52,
+        "certified": true,
+        "positive_loss_cases": 23,
+        "max_case_loss": 1,
+        "total_loss": 23,
+        "reversal_count": 8,
+        "retention_count": 17,
+        "retention_minimum": 1
+      },
+      "N": {
+        "status": "exact",
+        "lower": 24,
+        "upper": 41,
+        "certified": true,
+        "positive_loss_cases": 32,
+        "max_case_loss": 3,
+        "total_loss": 40,
+        "reversal_count": 17,
+        "retention_count": 9,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 29,
+        "upper": 29,
+        "certified": true,
+        "positive_loss_cases": 37,
+        "max_case_loss": 3,
+        "total_loss": 45,
+        "reversal_count": 22,
+        "retention_count": 9,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 41,
+    "edge_e": [
+      "R0011",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0009",
+      "R0007"
+    ],
+    "N_source_margin": 5,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -22,
+        "upper": 31,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -7,
+        "upper": 27,
+        "certified": false,
+        "positive_loss_cases": 11,
+        "max_case_loss": 3,
+        "total_loss": 15,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -19,
+        "upper": 18,
+        "certified": false,
+        "positive_loss_cases": 3,
+        "max_case_loss": 1,
+        "total_loss": 3,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": -1,
+        "upper": 6,
+        "certified": false,
+        "positive_loss_cases": 14,
+        "max_case_loss": 4,
+        "total_loss": 21,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "F": {
+        "status": "exact",
+        "lower": 1,
+        "upper": 1,
+        "certified": true,
+        "positive_loss_cases": 16,
+        "max_case_loss": 4,
+        "total_loss": 23,
+        "reversal_count": 1,
+        "retention_count": 16,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 42,
+    "edge_e": [
+      "R0009",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 6,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -38,
+        "upper": 42,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -35,
+        "upper": 27,
+        "certified": false,
+        "positive_loss_cases": 3,
+        "max_case_loss": 1,
+        "total_loss": 3,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -16,
+        "upper": 27,
+        "certified": false,
+        "positive_loss_cases": 16,
+        "max_case_loss": 3,
+        "total_loss": 22,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 3,
+        "upper": 13,
+        "certified": true,
+        "positive_loss_cases": 19,
+        "max_case_loss": 9,
+        "total_loss": 41,
+        "reversal_count": 1,
+        "retention_count": 17,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 10,
+        "upper": 10,
+        "certified": true,
+        "positive_loss_cases": 25,
+        "max_case_loss": 9,
+        "total_loss": 48,
+        "reversal_count": 2,
+        "retention_count": 16,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 43,
+    "edge_e": [
+      "R0011",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0011",
+      "R0009"
+    ],
+    "N_source_margin": 30,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -27,
+        "upper": 69,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -16,
+        "upper": 60,
+        "certified": false,
+        "positive_loss_cases": 11,
+        "max_case_loss": 1,
+        "total_loss": 11,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": 5,
+        "upper": 56,
+        "certified": true,
+        "positive_loss_cases": 27,
+        "max_case_loss": 3,
+        "total_loss": 32,
+        "reversal_count": 2,
+        "retention_count": 23,
+        "retention_minimum": 1
+      },
+      "N": {
+        "status": "exact",
+        "lower": 21,
+        "upper": 39,
+        "certified": true,
+        "positive_loss_cases": 31,
+        "max_case_loss": 7,
+        "total_loss": 48,
+        "reversal_count": 6,
+        "retention_count": 11,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 28,
+        "upper": 28,
+        "certified": true,
+        "positive_loss_cases": 35,
+        "max_case_loss": 8,
+        "total_loss": 55,
+        "reversal_count": 9,
+        "retention_count": 8,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 44,
+    "edge_e": [
+      "R0011",
+      "R0007"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 41,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -33,
+        "upper": 88,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -23,
+        "upper": 80,
+        "certified": false,
+        "positive_loss_cases": 10,
+        "max_case_loss": 1,
+        "total_loss": 10,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": 7,
+        "upper": 63,
+        "certified": true,
+        "positive_loss_cases": 34,
+        "max_case_loss": 2,
+        "total_loss": 40,
+        "reversal_count": 4,
+        "retention_count": 28,
+        "retention_minimum": 1
+      },
+      "N": {
+        "status": "exact",
+        "lower": 30,
+        "upper": 51,
+        "certified": true,
+        "positive_loss_cases": 40,
+        "max_case_loss": 9,
+        "total_loss": 63,
+        "reversal_count": 10,
+        "retention_count": 11,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 39,
+        "upper": 39,
+        "certified": true,
+        "positive_loss_cases": 49,
+        "max_case_loss": 9,
+        "total_loss": 72,
+        "reversal_count": 17,
+        "retention_count": 11,
+        "retention_minimum": 1
+      }
+    }
+  },
+  {
+    "query": 45,
+    "edge_e": [
+      "R0011",
+      "R0009"
+    ],
+    "edge_f": [
+      "R0012",
+      "R0007"
+    ],
+    "N_source_margin": 11,
+    "models": {
+      "T": {
+        "status": "exact",
+        "lower": -40,
+        "upper": 53,
+        "certified": false,
+        "positive_loss_cases": 0,
+        "max_case_loss": 0,
+        "total_loss": 0,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "P": {
+        "status": "exact",
+        "lower": -31,
+        "upper": 44,
+        "certified": false,
+        "positive_loss_cases": 9,
+        "max_case_loss": 1,
+        "total_loss": 9,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "W": {
+        "status": "exact",
+        "lower": -20,
+        "upper": 29,
+        "certified": false,
+        "positive_loss_cases": 15,
+        "max_case_loss": 2,
+        "total_loss": 20,
+        "reversal_count": null,
+        "retention_count": null,
+        "retention_minimum": null
+      },
+      "N": {
+        "status": "exact",
+        "lower": 5,
+        "upper": 16,
+        "certified": true,
+        "positive_loss_cases": 23,
+        "max_case_loss": 9,
+        "total_loss": 45,
+        "reversal_count": 1,
+        "retention_count": 19,
+        "retention_minimum": 1
+      },
+      "F": {
+        "status": "exact",
+        "lower": 11,
+        "upper": 11,
+        "certified": true,
+        "positive_loss_cases": 29,
+        "max_case_loss": 9,
+        "total_loss": 51,
+        "reversal_count": 2,
+        "retention_count": 19,
+        "retention_minimum": 1
+      }
+    }
+  }
+]

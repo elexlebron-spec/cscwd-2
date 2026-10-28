@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "BPI2013",
+    "official_record": 12693914,
+    "official_file": "BPI_Challenge_2013_incidents.xes.gz",
+    "official_file_id": 24033593,
+    "official_md5": "d4809bd55e3e1c15b017ab4e58228297",
+    "observed_md5": "d4809bd55e3e1c15b017ab4e58228297",
+    "comparison": "compressed file",
+    "bytes_match": true,
+    "publisher_md5_match": true,
+    "raw_sha256": "6ec2136c607648608655802486df97a866f351668751b7ecbca51e1f8715d522"
+  },
+  {
+    "dataset": "BPI2012",
+    "official_record": 12689204,
+    "official_file": "BPI_Challenge_2012.xes.gz",
+    "official_file_id": 24027287,
+    "official_md5": "74c7ba9aba85bfcb181a22c9d565e5b5",
+    "observed_md5": "ae835df34abc079744f0ed6b918bc3a8",
+    "comparison": "compressed file",
+    "bytes_match": false,
+    "publisher_md5_match": false,
+    "raw_sha256": "fdc916898cd56f0fb65f0c6c2f69140e6345fe9fc8be2ef1dde0647107db050b"
+  },
+  {
+    "dataset": "M1",
+    "official_record": 12709154,
+    "official_file": "BPIC15_1.xes",
+    "official_file_id": 24063818,
+    "official_md5": "6c8a04d566eef571cf0aaf7b6f70310b",
+    "observed_md5": "6c8a04d566eef571cf0aaf7b6f70310b",
+    "comparison": "decompressed XES",
+    "bytes_match": true,
+    "publisher_md5_match": true,
+    "raw_sha256": "d5847a409cec1de1b7382b59365aec6af8e53e1c2ac083201e7679c22a6ef525"
+  },
+  {
+    "dataset": "M2",
+    "official_record": 12697349,
+    "official_file": "BPIC15_2.xes",
+    "official_file_id": 24044639,
+    "official_md5": "f271dc579cee2c067bf2d8d2b8b45162",
+    "observed_md5": "f271dc579cee2c067bf2d8d2b8b45162",
+    "comparison": "decompressed XES",
+    "bytes_match": true,
+    "publisher_md5_match": true,
+    "raw_sha256": "aa0b2c6469d959a0303a6015afb2f5dddb8dd14040b52c0fd824bf5f57420600"
+  },
+  {
+    "dataset": "M3",
+    "official_record": 12718370,
+    "official_file": "BPIC15_3.xes",
+    "official_file_id": 24076154,
+    "official_md5": "7fee0bd0bfb8169cb2f91f2c77d2598e",
+    "observed_md5": "7fee0bd0bfb8169cb2f91f2c77d2598e",
+    "comparison": "decompressed XES",
+    "bytes_match": true,
+    "publisher_md5_match": true,
+    "raw_sha256": "7ffc2552130921c6fbc0ffc6c519be56775a4352ea22b4ceba5db0f72bfa67d4"
+  }
+]

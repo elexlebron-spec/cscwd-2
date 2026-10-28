@@ -1,0 +1,34 @@
+{
+  "M1": {
+    "all_raw": {
+      "cases": 1199,
+      "case_subprocess_groups": 7340,
+      "case_subprocess_groups_with_ordinal_inversion": 1768,
+      "later_timestamp_groups_below_prior_max": 8567,
+      "cases_with_ordinal_inversion": 1139
+    },
+    "core_cohort": {
+      "cases": 999,
+      "case_subprocess_groups": 6121,
+      "case_subprocess_groups_with_ordinal_inversion": 1457,
+      "later_timestamp_groups_below_prior_max": 7026,
+      "cases_with_ordinal_inversion": 948
+    }
+  },
+  "M3": {
+    "all_raw": {
+      "cases": 1409,
+      "case_subprocess_groups": 9231,
+      "case_subprocess_groups_with_ordinal_inversion": 1744,
+      "later_timestamp_groups_below_prior_max": 10103,
+      "cases_with_ordinal_inversion": 1259
+    },
+    "core_cohort": {
+      "cases": 1409,
+      "case_subprocess_groups": 9231,
+      "case_subprocess_groups_with_ordinal_inversion": 1744,
+      "later_timestamp_groups_below_prior_max": 10103,
+      "cases_with_ordinal_inversion": 1259
+    }
+  }
+}

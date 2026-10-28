@@ -1,0 +1,12 @@
+{
+  "scope": "post-results descriptive comparison",
+  "sources": {
+    "evidence/revision-v7/M1/queries.json": "22b5453ed800b6f8f2b0faccd7889d0076c5b4e9bd59956d7cbfa0a055a19489",
+    "evidence/revision-v7/M3/queries.json": "f201ee6c750e4fb1008d308eda77656ceaf954f4899df4bd27c7597925acf935",
+    "evidence/v8/UCI498/core-r1/queries.json": "597c94afbe562b0bba364cea745c429ef006a17cc6e86ef924f585bde6491f18",
+    "local_private_bound_sha256": "02c5f1f751f5f2ffdffb9fcdd878373bce42c123ad0a5f67db3c13f1b9d4e26f"
+  },
+  "protocol_sha256": "518f796e9a2b423133ceb0759fe1b4402fda20e079307707ec6d76789ffe6c4c",
+  "source_sha256": "5f243d6a50f460fcf50569f914eec9cee8bb12b007c8886588cedb13b3054569",
+  "rows": 225
+}

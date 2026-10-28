@@ -1,0 +1,87 @@
+{
+  "case_alias": "C0261",
+  "case_events": 75,
+  "block_events": 37,
+  "recorded_timestamp": "2013-10-15T00:00:00+02:00",
+  "global_margins": {
+    "baseline": 1,
+    "negative": -1
+  },
+  "unrelaxed_case_orders_identical": 998,
+  "patterns": {
+    "baseline": {
+      "rle": [
+        [
+          "R0006",
+          12
+        ],
+        [
+          "R0015",
+          1
+        ],
+        [
+          "R0006",
+          11
+        ],
+        [
+          "R0015",
+          8
+        ],
+        [
+          "R0006",
+          5
+        ]
+      ],
+      "before": "R0008",
+      "after": "R0015",
+      "case_e": 3,
+      "case_f": 0
+    },
+    "negative": {
+      "rle": [
+        [
+          "R0015",
+          9
+        ],
+        [
+          "R0006",
+          28
+        ]
+      ],
+      "before": "R0008",
+      "after": "R0015",
+      "case_e": 1,
+      "case_f": 0
+    }
+  },
+  "selected_source_labels": [
+    {
+      "code": "01_HOOFD_491",
+      "label": "submit decision",
+      "resource": "R0006"
+    },
+    {
+      "code": "01_HOOFD_495",
+      "label": "phase decision taken",
+      "resource": "R0015"
+    },
+    {
+      "code": "01_HOOFD_500",
+      "label": "register objection and appeal periods",
+      "resource": "R0015"
+    },
+    {
+      "code": "01_HOOFD_510_0",
+      "label": "creating cover letter decision",
+      "resource": "R0015"
+    },
+    {
+      "code": "08_AWB45_005",
+      "label": "request complete",
+      "resource": "R0006"
+    }
+  ],
+  "dateFinished_all_same": true,
+  "planned_distinct_values": 31,
+  "interpretation": "Timestamp-admissible counterexample; business precedence and planned-field semantics remain unverified."
+}

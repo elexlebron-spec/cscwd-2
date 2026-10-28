@@ -1,0 +1,173 @@
+{
+  "status": "passed",
+  "case_bound_comparisons": 133425,
+  "enumeration_coverage": {
+    "T": {
+      "cases_enumerated": 967,
+      "summed_case_sequences": 28409,
+      "all_queries_checked": true
+    },
+    "N": {
+      "cases_enumerated": 999,
+      "summed_case_sequences": 1299,
+      "all_queries_checked": true
+    },
+    "F": {
+      "cases_enumerated": 999,
+      "summed_case_sequences": 1002,
+      "all_queries_checked": true
+    }
+  },
+  "unrelaxed_case_orders_identical": true,
+  "raw_events_matched": 43322,
+  "raw_cases": 1199,
+  "cohort_cases": 999,
+  "seconds": 7.362582542,
+  "complete_mixed_model_witnesses": [
+    {
+      "query": 2,
+      "base_model": "N",
+      "relaxed_cases": 4,
+      "baseline_margin": 36,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 2,
+      "base_model": "F",
+      "relaxed_cases": 4,
+      "baseline_margin": 41,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 7,
+      "base_model": "N",
+      "relaxed_cases": 2,
+      "baseline_margin": 15,
+      "witness_margin": -6,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 7,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 20,
+      "witness_margin": -3,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 8,
+      "base_model": "N",
+      "relaxed_cases": 14,
+      "baseline_margin": 16,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 8,
+      "base_model": "F",
+      "relaxed_cases": 14,
+      "baseline_margin": 16,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 9,
+      "base_model": "N",
+      "relaxed_cases": 3,
+      "baseline_margin": 4,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 9,
+      "base_model": "F",
+      "relaxed_cases": 3,
+      "baseline_margin": 4,
+      "witness_margin": -2,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 11,
+      "base_model": "N",
+      "relaxed_cases": 19,
+      "baseline_margin": 74,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 11,
+      "base_model": "F",
+      "relaxed_cases": 19,
+      "baseline_margin": 74,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 12,
+      "base_model": "N",
+      "relaxed_cases": 1,
+      "baseline_margin": 1,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 12,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 3,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 13,
+      "base_model": "N",
+      "relaxed_cases": 8,
+      "baseline_margin": 10,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 13,
+      "base_model": "F",
+      "relaxed_cases": 10,
+      "baseline_margin": 12,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 31,
+      "base_model": "N",
+      "relaxed_cases": 9,
+      "baseline_margin": 9,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 31,
+      "base_model": "F",
+      "relaxed_cases": 9,
+      "baseline_margin": 9,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 41,
+      "base_model": "N",
+      "relaxed_cases": 2,
+      "baseline_margin": 1,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    },
+    {
+      "query": 41,
+      "base_model": "F",
+      "relaxed_cases": 2,
+      "baseline_margin": 1,
+      "witness_margin": -1,
+      "minimality_prefix_checked": true
+    }
+  ],
+  "limitations": "Enumeration coverage is reported per model; unenumerated case extrema rely on multiplicity DP correctness and small-instance tests. All full-log witnesses replayed; minimality uses exact case bounds."
+}

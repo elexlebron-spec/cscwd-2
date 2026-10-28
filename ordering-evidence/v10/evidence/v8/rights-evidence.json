@@ -1,0 +1,18 @@
+{
+  "doi": "10.4121/resource:terms_of_use",
+  "version": "August 2016",
+  "pages": 2,
+  "official_record": "https://api.figshare.com/v2/articles/12721292",
+  "official_file_id": 24080255,
+  "official_size": 191259,
+  "official_md5": "5a37f1aea024a6339971a69994e094d5",
+  "observed_md5": "5a37f1aea024a6339971a69994e094d5",
+  "sha256": "e4dc9caf93f5d19cc5b7d1d48a15f363e5f59eb8a54f1aabafed2e79f4a26f04",
+  "mirror": "https://api.github.com/repos/smartjourneymining/probabilistic_games/git/blobs/b7732caa11f5d879267a3aedf1a0f421c0aed280",
+  "mirror_git_blob": "b7732caa11f5d879267a3aedf1a0f421c0aed280",
+  "git_blob_verified": true,
+  "complete_text_reviewed": true,
+  "dataset_license_is_not_CC0": true,
+  "terms_document_metadata_license": "CC0",
+  "current_site_terms": "March 2023; official-site archive captured 11 March 2025; no assertion that live 2026 bytes have been retrieved"
+}

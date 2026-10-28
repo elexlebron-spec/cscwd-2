@@ -1,0 +1,713 @@
+{
+  "M1": {
+    "cases": 999,
+    "events": 43322,
+    "tied_blocks": 5670,
+    "mixed_blocks": 175,
+    "mixed_cases": 161,
+    "mixed_records": 1697,
+    "max_mixed_block": 44,
+    "target_exposure_definition": "Mixed T block with a candidate target edge internally or incident to an adjacent timestamp block; conservative exposure, not proven nonzero loss.",
+    "queries": [
+      {
+        "query": 1,
+        "exposed_blocks": 40,
+        "exposed_cases": 39
+      },
+      {
+        "query": 2,
+        "exposed_blocks": 26,
+        "exposed_cases": 25
+      },
+      {
+        "query": 3,
+        "exposed_blocks": 39,
+        "exposed_cases": 38
+      },
+      {
+        "query": 4,
+        "exposed_blocks": 31,
+        "exposed_cases": 29
+      },
+      {
+        "query": 5,
+        "exposed_blocks": 37,
+        "exposed_cases": 36
+      },
+      {
+        "query": 6,
+        "exposed_blocks": 17,
+        "exposed_cases": 16
+      },
+      {
+        "query": 7,
+        "exposed_blocks": 30,
+        "exposed_cases": 28
+      },
+      {
+        "query": 8,
+        "exposed_blocks": 27,
+        "exposed_cases": 25
+      },
+      {
+        "query": 9,
+        "exposed_blocks": 21,
+        "exposed_cases": 20
+      },
+      {
+        "query": 10,
+        "exposed_blocks": 35,
+        "exposed_cases": 34
+      },
+      {
+        "query": 11,
+        "exposed_blocks": 48,
+        "exposed_cases": 48
+      },
+      {
+        "query": 12,
+        "exposed_blocks": 36,
+        "exposed_cases": 35
+      },
+      {
+        "query": 13,
+        "exposed_blocks": 47,
+        "exposed_cases": 47
+      },
+      {
+        "query": 14,
+        "exposed_blocks": 27,
+        "exposed_cases": 27
+      },
+      {
+        "query": 15,
+        "exposed_blocks": 37,
+        "exposed_cases": 36
+      },
+      {
+        "query": 16,
+        "exposed_blocks": 37,
+        "exposed_cases": 36
+      },
+      {
+        "query": 17,
+        "exposed_blocks": 31,
+        "exposed_cases": 31
+      },
+      {
+        "query": 18,
+        "exposed_blocks": 35,
+        "exposed_cases": 35
+      },
+      {
+        "query": 19,
+        "exposed_blocks": 25,
+        "exposed_cases": 24
+      },
+      {
+        "query": 20,
+        "exposed_blocks": 33,
+        "exposed_cases": 33
+      },
+      {
+        "query": 21,
+        "exposed_blocks": 13,
+        "exposed_cases": 13
+      },
+      {
+        "query": 22,
+        "exposed_blocks": 16,
+        "exposed_cases": 15
+      },
+      {
+        "query": 23,
+        "exposed_blocks": 22,
+        "exposed_cases": 21
+      },
+      {
+        "query": 24,
+        "exposed_blocks": 17,
+        "exposed_cases": 17
+      },
+      {
+        "query": 25,
+        "exposed_blocks": 40,
+        "exposed_cases": 39
+      },
+      {
+        "query": 26,
+        "exposed_blocks": 41,
+        "exposed_cases": 41
+      },
+      {
+        "query": 27,
+        "exposed_blocks": 26,
+        "exposed_cases": 26
+      },
+      {
+        "query": 28,
+        "exposed_blocks": 39,
+        "exposed_cases": 38
+      },
+      {
+        "query": 29,
+        "exposed_blocks": 36,
+        "exposed_cases": 35
+      },
+      {
+        "query": 30,
+        "exposed_blocks": 26,
+        "exposed_cases": 26
+      },
+      {
+        "query": 31,
+        "exposed_blocks": 38,
+        "exposed_cases": 37
+      },
+      {
+        "query": 32,
+        "exposed_blocks": 18,
+        "exposed_cases": 17
+      },
+      {
+        "query": 33,
+        "exposed_blocks": 29,
+        "exposed_cases": 27
+      },
+      {
+        "query": 34,
+        "exposed_blocks": 28,
+        "exposed_cases": 26
+      },
+      {
+        "query": 35,
+        "exposed_blocks": 22,
+        "exposed_cases": 21
+      },
+      {
+        "query": 36,
+        "exposed_blocks": 24,
+        "exposed_cases": 24
+      },
+      {
+        "query": 37,
+        "exposed_blocks": 37,
+        "exposed_cases": 36
+      },
+      {
+        "query": 38,
+        "exposed_blocks": 34,
+        "exposed_cases": 33
+      },
+      {
+        "query": 39,
+        "exposed_blocks": 28,
+        "exposed_cases": 28
+      },
+      {
+        "query": 40,
+        "exposed_blocks": 17,
+        "exposed_cases": 16
+      },
+      {
+        "query": 41,
+        "exposed_blocks": 14,
+        "exposed_cases": 13
+      },
+      {
+        "query": 42,
+        "exposed_blocks": 8,
+        "exposed_cases": 8
+      },
+      {
+        "query": 43,
+        "exposed_blocks": 26,
+        "exposed_cases": 24
+      },
+      {
+        "query": 44,
+        "exposed_blocks": 21,
+        "exposed_cases": 20
+      },
+      {
+        "query": 45,
+        "exposed_blocks": 18,
+        "exposed_cases": 17
+      }
+    ]
+  },
+  "M3": {
+    "cases": 1409,
+    "events": 59681,
+    "tied_blocks": 8273,
+    "mixed_blocks": 261,
+    "mixed_cases": 241,
+    "mixed_records": 2085,
+    "max_mixed_block": 46,
+    "target_exposure_definition": "Mixed T block with a candidate target edge internally or incident to an adjacent timestamp block; conservative exposure, not proven nonzero loss.",
+    "queries": [
+      {
+        "query": 1,
+        "exposed_blocks": 40,
+        "exposed_cases": 39
+      },
+      {
+        "query": 2,
+        "exposed_blocks": 75,
+        "exposed_cases": 73
+      },
+      {
+        "query": 3,
+        "exposed_blocks": 67,
+        "exposed_cases": 66
+      },
+      {
+        "query": 4,
+        "exposed_blocks": 72,
+        "exposed_cases": 70
+      },
+      {
+        "query": 5,
+        "exposed_blocks": 29,
+        "exposed_cases": 29
+      },
+      {
+        "query": 6,
+        "exposed_blocks": 31,
+        "exposed_cases": 30
+      },
+      {
+        "query": 7,
+        "exposed_blocks": 69,
+        "exposed_cases": 68
+      },
+      {
+        "query": 8,
+        "exposed_blocks": 32,
+        "exposed_cases": 32
+      },
+      {
+        "query": 9,
+        "exposed_blocks": 47,
+        "exposed_cases": 44
+      },
+      {
+        "query": 10,
+        "exposed_blocks": 80,
+        "exposed_cases": 77
+      },
+      {
+        "query": 11,
+        "exposed_blocks": 70,
+        "exposed_cases": 68
+      },
+      {
+        "query": 12,
+        "exposed_blocks": 77,
+        "exposed_cases": 74
+      },
+      {
+        "query": 13,
+        "exposed_blocks": 33,
+        "exposed_cases": 32
+      },
+      {
+        "query": 14,
+        "exposed_blocks": 35,
+        "exposed_cases": 33
+      },
+      {
+        "query": 15,
+        "exposed_blocks": 73,
+        "exposed_cases": 70
+      },
+      {
+        "query": 16,
+        "exposed_blocks": 36,
+        "exposed_cases": 35
+      },
+      {
+        "query": 17,
+        "exposed_blocks": 51,
+        "exposed_cases": 48
+      },
+      {
+        "query": 18,
+        "exposed_blocks": 107,
+        "exposed_cases": 104
+      },
+      {
+        "query": 19,
+        "exposed_blocks": 58,
+        "exposed_cases": 56
+      },
+      {
+        "query": 20,
+        "exposed_blocks": 68,
+        "exposed_cases": 66
+      },
+      {
+        "query": 21,
+        "exposed_blocks": 69,
+        "exposed_cases": 66
+      },
+      {
+        "query": 22,
+        "exposed_blocks": 108,
+        "exposed_cases": 105
+      },
+      {
+        "query": 23,
+        "exposed_blocks": 72,
+        "exposed_cases": 70
+      },
+      {
+        "query": 24,
+        "exposed_blocks": 87,
+        "exposed_cases": 83
+      },
+      {
+        "query": 25,
+        "exposed_blocks": 104,
+        "exposed_cases": 101
+      },
+      {
+        "query": 26,
+        "exposed_blocks": 60,
+        "exposed_cases": 58
+      },
+      {
+        "query": 27,
+        "exposed_blocks": 60,
+        "exposed_cases": 58
+      },
+      {
+        "query": 28,
+        "exposed_blocks": 53,
+        "exposed_cases": 52
+      },
+      {
+        "query": 29,
+        "exposed_blocks": 63,
+        "exposed_cases": 62
+      },
+      {
+        "query": 30,
+        "exposed_blocks": 77,
+        "exposed_cases": 73
+      },
+      {
+        "query": 31,
+        "exposed_blocks": 65,
+        "exposed_cases": 63
+      },
+      {
+        "query": 32,
+        "exposed_blocks": 66,
+        "exposed_cases": 63
+      },
+      {
+        "query": 33,
+        "exposed_blocks": 105,
+        "exposed_cases": 102
+      },
+      {
+        "query": 34,
+        "exposed_blocks": 69,
+        "exposed_cases": 67
+      },
+      {
+        "query": 35,
+        "exposed_blocks": 84,
+        "exposed_cases": 80
+      },
+      {
+        "query": 36,
+        "exposed_blocks": 23,
+        "exposed_cases": 21
+      },
+      {
+        "query": 37,
+        "exposed_blocks": 62,
+        "exposed_cases": 60
+      },
+      {
+        "query": 38,
+        "exposed_blocks": 25,
+        "exposed_cases": 25
+      },
+      {
+        "query": 39,
+        "exposed_blocks": 40,
+        "exposed_cases": 38
+      },
+      {
+        "query": 40,
+        "exposed_blocks": 61,
+        "exposed_cases": 59
+      },
+      {
+        "query": 41,
+        "exposed_blocks": 25,
+        "exposed_cases": 24
+      },
+      {
+        "query": 42,
+        "exposed_blocks": 39,
+        "exposed_cases": 36
+      },
+      {
+        "query": 43,
+        "exposed_blocks": 63,
+        "exposed_cases": 62
+      },
+      {
+        "query": 44,
+        "exposed_blocks": 79,
+        "exposed_cases": 74
+      },
+      {
+        "query": 45,
+        "exposed_blocks": 43,
+        "exposed_cases": 39
+      }
+    ]
+  },
+  "UCI498": {
+    "cases": 24918,
+    "events": 141712,
+    "tied_blocks": 13627,
+    "mixed_blocks": 109,
+    "mixed_cases": 108,
+    "mixed_records": 236,
+    "max_mixed_block": 4,
+    "target_exposure_definition": "Mixed T block with a candidate target edge internally or incident to an adjacent timestamp block; conservative exposure, not proven nonzero loss.",
+    "queries": [
+      {
+        "query": 1,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 2,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 3,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 4,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 5,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 6,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 7,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 8,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 9,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 10,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 11,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 12,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 13,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 14,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 15,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 16,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 17,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 18,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 19,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 20,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 21,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 22,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 23,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 24,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 25,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 26,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 27,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 28,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 29,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 30,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 31,
+        "exposed_blocks": 5,
+        "exposed_cases": 5
+      },
+      {
+        "query": 32,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 33,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      },
+      {
+        "query": 34,
+        "exposed_blocks": 4,
+        "exposed_cases": 4
+      },
+      {
+        "query": 35,
+        "exposed_blocks": 4,
+        "exposed_cases": 4
+      },
+      {
+        "query": 36,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 37,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 38,
+        "exposed_blocks": 4,
+        "exposed_cases": 4
+      },
+      {
+        "query": 39,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 40,
+        "exposed_blocks": 0,
+        "exposed_cases": 0
+      },
+      {
+        "query": 41,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 42,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 43,
+        "exposed_blocks": 2,
+        "exposed_cases": 2
+      },
+      {
+        "query": 44,
+        "exposed_blocks": 1,
+        "exposed_cases": 1
+      },
+      {
+        "query": 45,
+        "exposed_blocks": 3,
+        "exposed_cases": 3
+      }
+    ]
+  }
+}

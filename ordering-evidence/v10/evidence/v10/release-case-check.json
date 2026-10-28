@@ -1,0 +1,19 @@
+{
+  "case_alias": "C0261",
+  "case_events": 75,
+  "critical_block_events": 37,
+  "matched_fields": [
+    "activity code",
+    "raw resource",
+    "local wall clock",
+    "English label"
+  ],
+  "event_multiset_matches": true,
+  "original_zip_sha256": "4ccd2eff858ffb1bf7fc4b88cdef02f1230686ba2fffe22720dfdecf03ad8ebb",
+  "csv_member_sha256": "91105f0b9798d8451c0d318ddcb316de954335446cc7fdf121cc457650dbdb94",
+  "critical_block_full_code_nondecreasing": true,
+  "all_case_ties_full_code_nondecreasing": true,
+  "file_order_is_not_case_time_order": true,
+  "interpretation": "A documented and observed preprocessing convention; not an independent execution audit trail.",
+  "business_execution_order_verified": false
+}

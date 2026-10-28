@@ -1,0 +1,21 @@
+{
+  "retrieved_utc": "2026-10-28T04:43:36.485540+00:00",
+  "items": [
+    {
+      "name": "fluxicon-2015.html",
+      "url": "https://fluxicon.com/blog/2015/05/bpi-challenge-2015/",
+      "final_url": "https://fluxicon.com/blog/2015/05/bpi-challenge-2015/",
+      "status": 200,
+      "bytes": 14972,
+      "sha256": "37cc4231ef33bde24bf358dbac08ba8b15be64c2b7870dea754cab2feed9fc81"
+    },
+    {
+      "name": "fluxicon-BPI-Challenge-2015.zip",
+      "url": "https://files.fluxicon.com/Datasets/BPIC/BPI-Challenge-2015.zip",
+      "final_url": "https://files.fluxicon.com/Datasets/BPIC/BPI-Challenge-2015.zip",
+      "status": 200,
+      "bytes": 9312414,
+      "sha256": "4ccd2eff858ffb1bf7fc4b88cdef02f1230686ba2fffe22720dfdecf03ad8ebb"
+    }
+  ]
+}

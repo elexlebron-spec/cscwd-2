@@ -1,0 +1,117 @@
+ 
+ 
+4TU.Centre for Research Data | August 2016 
+ 
+ 
+ 
+General terms of use for 4TU.Centre for Research Data 
+ 
+Please read these General Terms of Use carefully before accessing 
+4TU.ResearchData. By accessing the 4TU.ResearchData data archive, you accept,  
+without limitation or qualification, these General Terms of Use. 
+In summary, these terms specify that, when re-using the data, you will clearly 
+state the name(s) of the original author(s) and that you will not use the data 
+for commercial purposes.   
+ 
+ 
+1. Clear acknowledgement of sources 
+The user shall always include an acknowledgement of sources, or citation, in 
+the research results that he/she publishes where use is made of digital data 
+originating from one of the datasets of 4TU.ResearchData. Citations are placed 
+both in the text and in an organized list at the end of the text.  
+ 
+2. Citing and referencing 
+4TU.ResearchData recommends using the DataCite method for citing datasets. 
+Where you mention the data, reference the source as you would for a printed 
+publication.  
+The following is the recommended format for rendering a DataCite 
+format citation: Creator (PublicationYear): Title. Publisher. Identifier.                                                                                      
+DataCite recommends that DOI names are displayed as linkable, permanent 
+URLs. 
+4TU.ResearchData is providing a full citation for each dataset which you can 
+easily paste into your own document, for example: 
+ 
+ 
+Mention that the dataset originates from 4TU.ResearchData is appreciated but 
+not mandatory. 
+ 
+3. Publications                                                                                                                                                      
+The user must provide 4TU.ResearchData with the  bibliographic details of all 
+printed or digital publications that contain data from, or are based on, data 
+collections from 4TU.ResearchData. 
+ 
+4. Distribution of the dataset 
+a. When distributing part or all of the dataset to third parties, the data user 
+should at all times acknowledge the source referred to in Article 1, mentioning 
+at least the rights-holder to the dataset. The rights-holder to the dataset is the 
+person and/or organization mentioned in the description of the dataset as 
+“Creator”. It should also be stated that any subsequent distribution by third 
+parties must include this acknowledgement of the source.                                                                                                              
+b. The user is allowed to remix, transform or build upon the data, but only for non-
+commercial purposes.  
+ 
+5. Copyright policy 
+The user should respect any copyright related to datasets, in particular when 
+distributing or republishing datasets. If necessary, the user should contact the 
+creator or rights-holder to the dataset in order to discuss the reuse of the data 
+mentioned under Article 1 and 2 regarding this matter.  
+ 
+ 
+
+ 
+ 
+4TU.Centre for Research Data | August 2016 
+ 
+ 
+ 
+6. Metadata policy for information describing datasets                                                                                                                    
+The metadata may be re-used in any medium without prior permission for not 
+for-profit purposes and re-sold commercially provided the DOI or a link to the 
+original metadata record are given. 
+7. Personal data protection 
+Datasets that contain personal information as referred to in the Personal Data 
+Protection Act (Wet Bescherming Persoonsgegevens) may be used only for 
+historical, statistical or scientific research. Persons who use datasets containing 
+personal data are required to comply with the Code of Conduct for the Use of 
+Personal Data in Scientific Research (Gedragscode voor gebruik van 
+persoonsgegevens in wetenschappelijk onderzoek) published by the VSNU 
+(Association of Universities in the Netherlands). 
+ 
+8. Content liability 
+4TU.ResearchData is in no way whatsoever liable for the content or 
+accompanying documentation of the dataset. 4TU.ResearchData is not liable for 
+substantive errors or for incorrect conclusions based on the data. The user is 
+requested, however, to inform 4TU.ResearchData of any found errors 
+immediately after discovery of these. 
+ 
+9. Non-compliance with the General Terms of Use 
+a. In the case of non-compliance with one of these General Terms of Use, the 
+use of the dataset must be terminated immediately at the initial demand by 
+4TU.ResearchData. 4TU.ResearchData reserves the right to, in such an event, to 
+inform the user’s employer. In the event of improper use of personal data, 
+4TU.ResearchData also has the right to inform the Dutch Data Protection 
+Authority (College Bescherming Persoonsgegevens).  
+b. The user indemnifies 4TU.ResearchData against all claims other parties may 
+bring against 4TU.ResearchData as a direct or indirect result of the fact that the 
+user has not or has incompletely taken these General Terms of Use into 
+consideration. 
+ 
+10. Compelling reasons 
+In the event of any compelling reasons, such as fraud or a breach of another 
+party’s copyright, 4TU.ResearchData has the right to prohibit the further use of 
+the dataset by the user. 
+ 
+11. Displaying registration data of user                                                                                                              
+A part of the 4TU.ResearchData datasets is only accessible for downloading to registered 
+users. The user agrees that his or her registration data may be held for validation and 
+statistical purposes and to manage the service.  
+ 
+12. Applicable law 
+Dutch law is applicable to these General Terms of Use. 
+ 
+13. Modification of the General Terms of Use 
+4TU.ResearchData maintains the right to adjust or change these General Terms of Use at 
+any time without notice to users. You should regularly check this policy to review the 
+current Terms of Use. 
+ 
+ 

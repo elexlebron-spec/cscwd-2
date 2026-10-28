@@ -1,0 +1,12 @@
+{
+  "dataset": "M1",
+  "cases_enumerated": 546,
+  "total_cases": 999,
+  "original_event_permutation_cap": 50000,
+  "query_bound_checks": {
+    "P": 24570,
+    "W": 24570
+  },
+  "optimizer_imported": false,
+  "all_passed": true
+}
